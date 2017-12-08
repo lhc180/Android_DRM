@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/include_title_bar"
+        layout="@layout/title_common_bar" />
+
+    <ScrollView
+        android:id="@+id/sv_login"
+        android:layout_below="@+id/include_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="10dp" >
+
+            <cn.com.pyc.drm.widget.ClearEditText
+                android:id="@+id/et_phone_number"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/xml_edit_blue"
+                android:gravity="center"
+                android:hint="@string/login_hint_phone_number"
+                android:inputType="phone"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#A6A6A6"
+                android:textSize="@dimen/login_edit_text" >
+            </cn.com.pyc.drm.widget.ClearEditText>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <cn.com.pyc.drm.widget.ClearEditText
+                    android:id="@+id/et_verification_code"
+                    android:layout_width="147dp"
+                    android:layout_height="42dp"
+                    android:background="@drawable/xml_edit_blue"
+                    android:ems="10"
+                    android:gravity="center"
+                    android:hint="@string/login_hint_verification_code"
+                    android:inputType="number"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textColorHint="#A6A6A6"
+                    android:textSize="@dimen/login_edit_text" >
+                </cn.com.pyc.drm.widget.ClearEditText>
+
+                <cn.com.pyc.drm.widget.FlatButton
+                    android:id="@+id/btn_verification_code"
+                    android:layout_width="match_parent"
+                    android:layout_height="42dp"
+                    android:layout_toRightOf="@+id/et_verification_code"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="center"
+                    android:text="@string/get_verification_code"
+                    android:textColor="@color/white"
+                    android:textSize="16.0sp"
+                    fbutton:buttonColor="@color/title_bar_bg_color"
+                    fbutton:cornerRadius="4dp"
+                    fbutton:shadowEnabled="false"
+
+                />
+                <RelativeLayout
+                    android:id="@+id/rl_verification_code"
+                    android:layout_width="match_parent"
+                    android:layout_height="42dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/et_verification_code"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="center"
+                    android:background="@drawable/round_verification_bg"
+                    android:visibility="invisible"
+                >
+                    <TextView
+                        android:id="@+id/tv_second"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textColor="#FF7F24"
+                        android:textSize="16.0sp"
+                    />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="秒后重新发送"
+                        android:textColor="#676767"
+                        android:textSize="16.0sp"
+                        android:layout_toRightOf="@id/tv_second"
+                    />
+
+                </RelativeLayout>
+            </RelativeLayout>
+            <cn.com.pyc.drm.widget.ClearEditText
+                android:id="@+id/btn_real_name"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/xml_edit_blue"
+                android:gravity="center"
+                android:hint="@string/register_real_name"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#A6A6A6"
+                android:textSize="@dimen/login_edit_text" >
+            </cn.com.pyc.drm.widget.ClearEditText>
+
+            <cn.com.pyc.drm.widget.ClearEditText
+                android:id="@+id/btn_set_password"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/xml_edit_blue"
+                android:gravity="center"
+                android:hint="@string/register_setpassword"
+                android:inputType="textPassword"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#A6A6A6"
+                android:textSize="@dimen/login_edit_text" >
+            </cn.com.pyc.drm.widget.ClearEditText>
+
+            <TextView
+                android:id="@+id/al_tv_notice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/red"
+                android:textSize="14sp" />
+
+            <cn.com.pyc.drm.widget.FlatButton
+                android:id="@+id/btn_regist"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="@string/regist"
+                android:textColor="@color/white"
+                android:textSize="16.0sp"
+                fbutton:buttonColor="@color/title_bar_bg_color"
+                fbutton:cornerRadius="4dp"
+                fbutton:shadowEnabled="false" />
+        </LinearLayout>
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="@string/look_meeting_company2"
+        android:textColor="#A6A6A6"
+        android:textSize="15.0dip" />
+</RelativeLayout>

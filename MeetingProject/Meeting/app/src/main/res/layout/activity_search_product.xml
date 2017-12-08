@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+    <include
+        android:id="@+id/include_title_bar"
+        layout="@layout/title_common_bar" />
+    <!-- 搜索栏 -->
+
+    <include layout="@layout/search_edit_layout" />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/lv_scanhistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg"
+        android:divider="@null"
+        android:listSelector="#00000000" />
+
+</LinearLayout>

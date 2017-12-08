@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wheel="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:id="@+id/xlistview_footer_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp" >
+
+        <!--
+             <ProgressBar
+            android:id="@+id/xlistview_footer_progressbar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerInParent="true"
+            android:indeterminate="true"
+            android:indeterminateDrawable="@drawable/ic_img_loading"
+            android:visibility="invisible" />
+        -->
+
+        <cn.com.pyc.drm.widget.ProgressWheel
+            android:id="@+id/xlistview_footer_progressbar"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_centerInParent="true"
+            android:visibility="invisible"
+            wheel:matProg_barColor="@color/title_bar_bg_color"
+            wheel:matProg_barWidth="2.0dp"
+            wheel:matProg_circleRadius="26dp"
+            wheel:matProg_progressIndeterminate="true"
+            wheel:matProg_rimColor="#314FBFE8"
+            wheel:matProg_rimWidth="2.0dp" />
+
+        <TextView
+            android:id="@+id/xlistview_footer_hint_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/xlistview_footer_hint_normal"
+            android:textColor="#727272"
+            android:textSize="14sp" >
+        </TextView>
+    </RelativeLayout>
+
+</LinearLayout>

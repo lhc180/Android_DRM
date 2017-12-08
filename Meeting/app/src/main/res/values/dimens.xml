@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- item 图片宽高 -->
+    <dimen name="item_image_width">87dip</dimen>
+    <dimen name="item_image_height">88dip</dimen>
+    <dimen name="tab_top_fontsize">15sp</dimen>
+    <dimen name="text_size_amazing_large">25.0dip</dimen>
+    <dimen name="text_size_small">14.0dip</dimen>
+    <dimen name="main_tab_background_height">50.0dip</dimen>
+    <dimen name="tab_width">180dp</dimen>
+    <dimen name="tab_height">56dp</dimen>
+    <dimen name="tab_text_size">16sp</dimen>
+    <dimen name="text_size_smaller">12.0dip</dimen>
+    <dimen name="title_bar_height">50.0dp</dimen>
+    <dimen name="vote_title_bar_height">35.0dp</dimen>
+    <dimen name="title_music_home_bar_height">72.0dp</dimen>
+    <dimen name="title_bar_text">18.0dp</dimen>
+    <dimen name="home_dilog_text">18dp</dimen>
+    <dimen name="home_dilog_marginLeft">20dp</dimen>
+    <dimen name="home_dilog_marginTop">10dp</dimen>
+    <dimen name="home_dilog_marginBottom">25dp</dimen>
+    <dimen name="home_dilog_lineHeight">2dp</dimen>
+    <dimen name="login_text">18dp</dimen>
+    <dimen name="login_edit_text">15dp</dimen>
+    <dimen name="distance_length">10.0dip</dimen>
+    <dimen name="videoinfo_text_size">15sp</dimen>
+    <dimen name="alt_title_text_size">15sp</dimen>
+    <dimen name="alt_validity_text_size">10sp</dimen>
+    <dimen name="userInfo_width">28sp</dimen>
+    <dimen name="userInfo_height">30sp</dimen>
+    <dimen name="userInfo_marginRight">12sp</dimen>
+    <dimen name="headback_width">15sp</dimen>
+    <dimen name="headback_height">18sp</dimen>
+    <dimen name="sz_info_marginTop">13sp</dimen>
+    <dimen name="sz_info_marginLeft">10sp</dimen>
+    <dimen name="sz_info_button_margineLeft">15sp</dimen>
+    <dimen name="tv_14">14sp</dimen>
+    <dimen name="sz_text_size">16sp</dimen>
+    <dimen name="video_button_size">33dp</dimen>
+    <dimen name="video_startOrPause_button_size">43dp</dimen>
+    <!-- music icon size -->
+    <dimen name="music_img_width">50dip</dimen>
+    <dimen name="music_img_height">50dip</dimen>
+    <!-- seekbar height -->
+    <dimen name="seekbar_height">2.0dp</dimen>
+    <!-- roundprogressbar width -->
+    <dimen name="roundbar_width">2.0dp</dimen>
+    <dimen name="textandiconmargin">10dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+
+</resources>

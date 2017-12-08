@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:suizhi="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:padding="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/item_cell_bg"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <com.android.maxwin.view.ScaleImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/transparent"
+            android:scaleType="centerInside" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginTop="2dp"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6.0dp"
+                android:layout_weight="0.6"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16.0dp"
+                    android:layout_marginRight="2.0dp"
+                    android:layout_marginTop="3.0dip"
+                    android:lineSpacingExtra="2.0dp"
+                    android:maxLines="2"
+                    android:singleLine="false"
+                    android:text="达芬奇传奇"
+                    android:textColor="#212121"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/tips"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="#727272"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/types"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="1个文件"
+                    android:textColor="#727272"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/desc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="#B6B6B6"
+                    android:textSize="12.0sp"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/rel_download"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4" >
+
+                <cn.com.pyc.drm.widget.RoundProgressBar
+                    android:id="@+id/RoundProgressBar"
+                    android:layout_width="24.0dp"
+                    android:layout_height="24.0dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/download_button"
+                    suizhi:roundWidth="1.6dp"
+                    suizhi:textSize="8.0sp" />
+
+                <TextView
+                    android:id="@+id/progress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/RoundProgressBar"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="2dp"
+                    android:textColor="#727272"
+                    android:textSize="8.0sp" />
+
+                <ImageView
+                    android:id="@+id/image_arrow_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5.0dp"
+                    android:src="@drawable/ic_arrow_back_right"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/button_update"
+                    android:layout_width="38dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/btn_stoken_update_selector"
+                    android:gravity="center"
+                    android:text="@string/update"
+                    android:textColor="#0277FF"
+                    android:textSize="12.0sp"
+                    android:visibility="gone" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/download_title"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/download_title"
+        android:visibility="gone" />
+
+</RelativeLayout>

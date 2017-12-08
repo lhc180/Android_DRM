@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_layout"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_bar_height"
+    android:background="@color/title_bar_bg_color" >
+
+    <ImageView
+        android:id="@+id/tv_teb"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:clickable="true" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="12.0sp" >
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/userinfo"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="-3sp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_image_userinfo" />
+
+        <ImageView
+            android:id="@+id/iv_info_dot"
+            android:layout_width="8.0dp"
+            android:layout_height="8.0dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/ic_brompt_dot_red"
+            android:scaleType="centerCrop" />
+    </RelativeLayout>
+
+</RelativeLayout>

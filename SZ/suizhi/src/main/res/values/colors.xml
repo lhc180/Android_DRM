@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主要用到的颜色 -->
+    <!-- 主要用到的颜色 -->
+    <!-- 主要用到的颜色 -->
+
+    <!-- 主题标题栏背景颜色 #4FBFE8 -->
+    <color name="title_bg_color">#FF9000</color>
+    <!-- 主背景颜色 #FEFEFE -->
+    <color name="main_bg_color">#E8E8EA</color>
+    <color name="yellow_warning">#F3F3B8</color>
+    <color name="yellow_font_color">#FF6600</color>
+    <color name="line_color">#d7d7d7</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_aa">#aa000000</color>
+    <color name="gray">#a6a6a0</color>
+    <color name="bkg_lightdark">#201e1f</color>
+    <color name="bkg_dimdark">#312d33</color>
+    <color name="bkg_graydark">#666666</color>
+
+    <!-- Scanning -->
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#99000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <!--新增颜色值 -->
+    <!-- 西红柿色 -->
+    <color name="tomato">#ff6347</color>
+    <!-- 烟白色 -->
+    <color name="white_smoke">#f6f6f6</color>
+    <!-- 橘红色 -->
+    <color name="orange">#fd9500</color>
+
+
+    <!-- 进度环颜色 -->
+    <color name="round_color">#3156C3EA</color>
+    <!-- 进度颜色 #56C3EA-->
+    <color name="progress_color">#52A5FF</color>
+
+    <!-- 添加color请写明注释，并规范命名 -->
+    <!-- 添加color请写明注释，并规范命名 -->
+    <!-- 添加color请写明注释，并规范命名 -->
+
+    <!-- 亮天蓝色，绥知2.2.7新修改的一些显示颜色 #09dfff -->
+    <color name="brilliant_blue">#01C7D2</color>
+    <color name="brilliant_tint_blue">#8CE0E5</color>
+
+    <!--内容和搜索item图片背景-->
+    <color name="search_item_img_bg">#445566</color>
+
+</resources>

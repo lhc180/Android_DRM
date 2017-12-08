@@ -1,0 +1,95 @@
+apply plugin: 'com.android.application'
+
+//gradlew assembleRelease
+//读取签名证书的密码和名字
+def keystorePropertiesFile = rootProject.file("release-key/keystore.properties")
+def keystorePropeties = new Properties();
+keystorePropeties.load(new FileInputStream(keystorePropertiesFile));
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.2'
+    defaultConfig {
+        applicationId "cn.com.meeting.drm"
+        minSdkVersion 19
+        targetSdkVersion 21
+        versionCode  34
+        versionName "1.3.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    //签名,调试运行时候使用
+    signingConfigs {
+        sign {
+            //storeFile file("E:/AndroidStudioProject/SZ/release-key/suizhi.keystore")
+            storeFile file(keystorePropeties['storeFile'])
+            storePassword keystorePropeties['storePassword']
+            keyAlias keystorePropeties['keyAlias']
+            keyPassword keystorePropeties['keyPassword']
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false          //混淆
+            zipAlignEnabled true        //zipAlign优化
+            //shrinkResources true        //移除无用的resource文件
+            signingConfig signingConfigs.sign
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //签名文件可配置，命令行打包时很方便
+        }
+        debug {
+            minifyEnabled false
+            zipAlignEnabled true
+            shrinkResources false
+        }
+    }
+    productFlavors {
+    }
+
+    //    //配置打包出的apk名称eg:suizhi_v2.3.5_201612121530-13服.apk
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def env = variant.buildType.name;
+            def apkName = 'meeting' + "_v${variant.versionName}" + "_${releaseTime()}" + "-${env}" + '.apk'
+            def nName = output.outputFile.name.replace(output.outputFile.name, apkName)
+            output.outputFile = new File(output.outputFile.parent, nName)
+            //删除掉unaligned apk
+            if (output.zipAlign != null) {
+                output.zipAlign.doLast {
+                    output.zipAlign.inputFile.delete()
+                }
+            }
+        }
+    }
+
+    //执行lint检查，有任何的错误或者警告提示，都会终止构建，我们可以将其关掉。
+    lintOptions {
+        abortOnError false
+        //checkReleaseBuilds false
+        disable 'MissingTranslation' // 防止在发布的时候出现因MissingTranslation导致Build Failed!
+    }
+
+}
+//定义发布时间
+def releaseTime() {
+    return new Date().format("yyyyMMdd")
+}
+
+dependencies {
+    compile files('libs/android-core-3.1.1-SNAPSHOT.jar')
+    compile files('libs/bcprov-jdk15-143.jar')
+    compile files('libs/commons-net-3.3.jar')
+    compile files('libs/core-3.1.1-SNAPSHOT.jar')
+    compile files('libs/eventbus-2.4.0.jar')
+    compile files('libs/fastjson-1.1.26.jar')
+    compile files('libs/httpmime-4.1.1.jar')
+    compile files('libs/jpush-sdk-release1.8.0.jar')
+    compile files('libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/rxandroid-1.1.0.jar')
+    compile files('libs/rxjava-1.1.0.jar')
+    compile files('libs/universal-image-loader-1.9.4-src.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile project(':recyclerview')
+    compile 'com.google.code.gson:gson:2.3.1'
+}

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <cn.com.pyc.drm.widget.IconCenterTextView
+        android:id="@+id/amc_search_text"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/round_white_background"
+        android:drawableLeft="@drawable/ic_search"
+        android:drawablePadding="3dp"
+        android:gravity="center"
+        android:text="@string/search_hint"
+        android:textColor="#969696"
+        android:textSize="15.6sp"/>
+
+    <!-- 无网络提示 -->
+
+    <include layout="@layout/network_tip_layout"/>
+
+    <!--顶部切换菜单-->
+    <LinearLayout
+        android:id="@+id/amc_lin_top_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="7dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:paddingTop="8dp"
+        android:visibility="gone">
+
+        <!--全部-->
+        <RelativeLayout
+            android:id="@+id/amc_top_menu_all"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="visible">
+
+            <ImageView
+                android:id="@+id/amc_top_menu_all_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/xml_top_menu_all"/>
+
+            <TextView
+                android:id="@+id/amc_top_menu_all_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/amc_top_menu_all_img"
+                android:layout_centerHorizontal="true"
+                android:text="@string/mycontent_type_all"
+                android:textColor="@color/selector_menu_textcolor"
+                android:textSize="10.0sp"/>
+        </RelativeLayout>
+
+        <!-- 文档 -->
+        <RelativeLayout
+            android:id="@+id/amc_top_menu_doc"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="visible">
+
+            <ImageView
+                android:id="@+id/amc_top_menu_doc_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/xml_top_menu_doc"/>
+
+            <TextView
+                android:id="@+id/amc_top_menu_doc_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/amc_top_menu_doc_img"
+                android:layout_centerHorizontal="true"
+                android:text="@string/mycontent_type_doc"
+                android:textColor="@color/selector_menu_textcolor"
+                android:textSize="10.0sp"/>
+        </RelativeLayout>
+
+        <!-- 音频 -->
+        <RelativeLayout
+            android:id="@+id/amc_top_menu_audio"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="visible">
+
+            <ImageView
+                android:id="@+id/amc_top_menu_audio_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/xml_top_menu_audio"/>
+
+            <TextView
+                android:id="@+id/amc_top_menu_audio_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/amc_top_menu_audio_img"
+                android:layout_centerHorizontal="true"
+                android:text="@string/mycontent_type_audio"
+                android:textColor="@color/selector_menu_textcolor"
+                android:textSize="10.0sp"/>
+        </RelativeLayout>
+
+        <!-- 视频 -->
+        <RelativeLayout
+            android:id="@+id/amc_top_menu_video"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="visible">
+
+            <ImageView
+                android:id="@+id/amc_top_menu_video_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/xml_top_menu_video"/>
+
+            <TextView
+                android:id="@+id/amc_top_menu_video_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/amc_top_menu_video_img"
+                android:layout_centerHorizontal="true"
+                android:text="@string/mycontent_type_video"
+                android:textColor="@color/selector_menu_textcolor"
+                android:textSize="10.0sp"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <!-- 主页面ListView -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/empty_view"/>
+
+        <!--本地数据-->
+        <cn.com.pyc.drm.widget.xrecyclerview.XRecyclerView
+            android:id="@+id/amc_xrv_my_local_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:clipToPadding="false"
+            android:padding="3dp"
+            android:scrollbars="vertical"
+            android:visibility="gone"/>
+
+        <!--网络数据-->
+        <cn.com.pyc.drm.widget.xrecyclerview.XRecyclerView
+            android:id="@+id/amc_xrv_my_net_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:clipToPadding="false"
+            android:padding="3dp"
+            android:scrollbars="vertical"
+            android:visibility="visible"/>
+    </FrameLayout>
+
+</LinearLayout>

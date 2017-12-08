@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:id="@+id/search_layout"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/round_white_background"
+        android:visibility="visible" >
+
+        <cn.com.pyc.drm.widget.SearchEditText
+            android:id="@+id/search_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/search_canceltext"
+            android:background="@null"
+            android:drawableLeft="@drawable/ic_search"
+            android:drawablePadding="3dp"
+            android:hint="@string/search_hint"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textColor="#676767"
+            android:textColorHint="@color/gray"
+            android:textSize="15.6sp" />
+
+        <TextView
+            android:id="@+id/search_canceltext"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:paddingRight="12dp"
+            android:text="@string/cancel"
+            android:textColor="@color/title_bg_color"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</merge>

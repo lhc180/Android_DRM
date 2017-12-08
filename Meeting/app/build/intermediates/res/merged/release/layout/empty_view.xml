@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:id="@+id/empty_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:background="@drawable/transparent"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/empty_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/loading_empty_default" />
+
+        <TextView
+            android:id="@+id/empty_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="6dp"
+            android:singleLine="true"
+            android:text="@string/load_data_null"
+            android:textColor="#66000000"
+            android:textSize="14.0sp" />
+    </LinearLayout>
+
+</merge>

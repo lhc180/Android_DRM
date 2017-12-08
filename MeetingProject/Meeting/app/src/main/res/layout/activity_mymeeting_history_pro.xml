@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/include_title_bar"
+        layout="@layout/title_mymeeting_common_bar" />
+
+
+    <cn.com.pyc.drm.widget.IconCenterTextView
+        android:id="@+id/search_guidetext"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/round_white_background"
+        android:drawableLeft="@drawable/ic_search"
+        android:drawablePadding="3dp"
+        android:gravity="center"
+        android:text="@string/search"
+        android:textColor="@color/gray_"
+        android:textSize="16sp" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="0.8dp"
+        android:background="@color/line_color" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <RelativeLayout
+            android:id="@+id/rl_sort"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tv_sort"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/sort_lift"
+                android:text="排序"
+                android:textColor="#BB000000"
+                android:textSize="17sp" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="0.8dp"
+            android:layout_height="match_parent"
+            android:background="@color/line_color" />
+
+        <RelativeLayout
+            android:id="@+id/rl_mechanism"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.51"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/mechanism_lift"
+                android:text="切换机构"
+                android:textColor="#BB000000"
+                android:textSize="17sp" />
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="0.8dp"
+        android:background="@color/line_color" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#F7F7F9"></View>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="0.8dp"
+        android:background="@color/line_color" />
+
+    <com.jcodecraeer.xrecyclerview.XRecyclerView
+        android:id="@+id/lv_scanhistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/bg"
+        android:divider="@null"
+        android:listSelector="#00000000" />
+
+
+</LinearLayout>

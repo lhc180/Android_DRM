@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_flash_c.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flash_c.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\welcomeui.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-xxhdpi\\welcomeui.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_flash_o.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flash_o.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launchers.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launchers.png"
+    }
+]

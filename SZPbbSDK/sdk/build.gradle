@@ -1,0 +1,56 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.2'
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+
+    //执行lint检查，有任何的错误或者警告提示，都会终止构建，我们可以将其关掉。
+    lintOptions {
+        abortOnError false
+        disable 'MissingTranslation'
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/pbb-utils.jar')
+}
+
+task makeJar(type: org.gradle.api.tasks.bundling.Jar) {
+
+    //删除存在的
+    //delete 'build/libs/pyc-loger-1.0.jar'
+
+    //指定生成的jar名
+    baseName 'pyc-sdk-1.0'
+    //从哪里打包class文件
+    from('build/intermediates/classes/release/cn/com/pyc/szpbb/')
+    //打包到jar后的目录结构
+    into('cn/com/pyc/szpbb/')
+    //去掉不需要打包的目录和文件
+    exclude('BuildConfig.class', 'R.class')
+    //去掉R$开头的文件
+    exclude { it.name.startsWith('R$'); }
+
+    //rename('log.jar', 'pyc-loger-1.0.jar')
+
+}
+
+makeJar.dependsOn(build)
+
+//命令行执行gradlew makeJar就可以在build/libs目录下找到这个jar
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="ftp_host">115.28.21.46</string>
+   <!--     <string name="ftp_host">192.168.85.14</string>192.168.85.14-->
+    <string name="ftp_name">anonymous</string>
+    <string name="ftp_pwd"></string>
+
+</resources>

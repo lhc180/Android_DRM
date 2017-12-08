@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:avloading="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:id="@+id/xlistview_footer_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp" >
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/xlistview_footer_progressbar"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/xlistview_footer_hint_textview"
+            android:visibility="invisible"
+            avloading:indicatorName="BallSpinFadeLoaderIndicator"
+            avloading:indicatorColor="@color/title_bg_color" />
+
+        <TextView
+            android:id="@+id/xlistview_footer_hint_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="8dp"
+            android:text="@string/xlistview_footer_hint_normal"
+            android:textColor="#727272"
+            android:textSize="14sp" >
+        </TextView>
+    </RelativeLayout>
+
+</LinearLayout>

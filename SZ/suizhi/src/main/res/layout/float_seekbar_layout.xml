@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/float_textSlider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:background="@drawable/ic_share_pos"/>
+
+    <!-- android:paddingLeft="-1.0dip"
+     android:paddingRight="-1.0dip"-->
+
+    <SeekBar
+        android:id="@+id/float_pageSlider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/float_textSlider"
+        android:layout_marginTop="5dp"
+        android:maxHeight="@dimen/seekbar_height"
+        android:minHeight="@dimen/seekbar_height"
+        android:progressDrawable="@drawable/seekbar_progress"
+        android:thumb="@drawable/seekbar_thumb"
+        android:thumbOffset="0.0dp"/>
+
+</RelativeLayout>

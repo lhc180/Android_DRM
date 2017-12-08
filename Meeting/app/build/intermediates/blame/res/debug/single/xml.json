@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

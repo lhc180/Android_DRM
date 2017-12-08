@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:padding="2.5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/search_item_height"
+        android:background="@drawable/item_cell_bg"
+        android:orientation="horizontal">
+
+        <com.android.maxwin.view.ScaleImageView
+            android:id="@+id/search_item_image"
+            android:layout_width="@dimen/search_item_img_width"
+            android:layout_height="match_parent"
+            android:background="@color/search_item_img_bg"
+            android:scaleType="centerInside"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp">
+
+            <TextView
+                android:id="@+id/search_item_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:maxLines="2"
+                android:padding="3dp"
+                android:textColor="@color/black_aa"
+                android:textSize="16sp"
+                tools:text="达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:padding="3dp">
+
+                <TextView
+                    android:id="@+id/search_item_seller_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:textColor="#999999"
+                    android:textSize="14sp"
+                    tools:text="国权演讲社"/>
+
+                <RelativeLayout
+                    android:id="@+id/search_item_rel_price"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/search_item_seller_name"
+                    android:layout_marginTop="5dp">
+
+                    <TextView
+                        android:id="@+id/search_item_discount_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_toLeftOf="@+id/search_item_people"
+                        android:gravity="left"
+                        android:textColor="@color/tomato"
+                        android:textSize="14sp"
+                        android:visibility="visible"
+                        tools:text="¥1000.00"/>
+
+
+                    <TextView
+                        android:id="@+id/search_item_people"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@id/search_item_discount_price"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="5dp"
+                        android:gravity="center"
+                        android:maxLines="1"
+                        android:textColor="#999999"
+                        android:textSize="13sp"
+                        android:visibility="visible"
+                        tools:text="8856人"/>
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

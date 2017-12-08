@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:padding="2.5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/item_cell_bg"
+        android:orientation="vertical"
+        android:padding="2.0dp">
+
+        <com.android.maxwin.view.ScaleImageView
+            android:id="@+id/image_local"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/loading_empty_logo"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/name_local"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6.0dp"
+            android:layout_marginRight="2.0dp"
+            android:layout_marginTop="3.0dp"
+            android:lineSpacingExtra="2.0dp"
+            android:maxLines="2"
+            android:singleLine="false"
+            android:textColor="#212121"
+            android:textSize="14sp"
+            tools:text="达芬奇传奇"/>
+
+        <TextView
+            android:id="@+id/tips_local"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6.0dp"
+            android:layout_marginTop="4.0dp"
+            android:singleLine="true"
+            android:textColor="#727272"
+            android:textSize="12sp"
+            tools:text="DRM"/>
+
+    </LinearLayout>
+
+</FrameLayout>

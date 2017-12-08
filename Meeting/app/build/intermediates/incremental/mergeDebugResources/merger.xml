@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet config="unspecified$Generated" generated="true"><source path="H:\studio20161115\meeting_workspase\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res"/><source path="H:\studio20161115\meeting_workspase\Meeting\app\build\generated\res\rs\debug"/><source path="H:\studio20161115\meeting_workspase\Meeting\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="H:\studio20161115\meeting_workspase\Meeting\app\src\debug\res"/></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="H:\studio20161115\meeting_workspase\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\res"><file path="H:\studio20161115\meeting_workspase\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\res\values\values.xml" qualifiers=""><item name="item_touch_helper_previous_elevation" type="id"/><string name="app_name">recyclerview</string><declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable><dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res"><file name="accelerate_interpolator" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\accelerate_interpolator.xml" qualifiers="" type="anim"/><file name="activity_music_close" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\activity_music_close.xml" qualifiers="" type="anim"/><file name="activity_music_open" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\activity_music_open.xml" qualifiers="" type="anim"/><file name="activity_scale_down_enter" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\activity_scale_down_enter.xml" qualifiers="" type="anim"/><file name="activity_scale_down_exit" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\activity_scale_down_exit.xml" qualifiers="" type="anim"/><file name="activity_scale_up_enter" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\activity_scale_up_enter.xml" qualifiers="" type="anim"/><file name="activity_scale_up_exit" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\activity_scale_up_exit.xml" qualifiers="" type="anim"/><file name="alpha_trans_in" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\alpha_trans_in.xml" qualifiers="" type="anim"/><file name="alp_info" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\alp_info.xml" qualifiers="" type="anim"/><file name="decelerate_interpolator" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\decelerate_interpolator.xml" qualifiers="" type="anim"/><file name="dialog_enter" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\dialog_enter.xml" qualifiers="" type="anim"/><file name="dialog_exit" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\dialog_exit.xml" qualifiers="" type="anim"/><file name="dialog_tv_off" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\dialog_tv_off.xml" qualifiers="" type="anim"/><file name="dialog_tv_on" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\dialog_tv_on.xml" qualifiers="" type="anim"/><file name="d_close" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\d_close.xml" qualifiers="" type="anim"/><file name="d_open" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\d_open.xml" qualifiers="" type="anim"/><file name="fade_in_scale" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\fade_in_scale.xml" qualifiers="" type="anim"/><file name="fade_out_scale" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\fade_out_scale.xml" qualifiers="" type="anim"/><file name="info_alpha" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\info_alpha.xml" qualifiers="" type="anim"/><file name="list_item_anim_layout" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\list_item_anim_layout.xml" qualifiers="" type="anim"/><file name="push_bottom_in" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\push_bottom_in.xml" qualifiers="" type="anim"/><file name="push_bottom_out" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\push_bottom_out.xml" qualifiers="" type="anim"/><file name="pw_info_dismiss" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\pw_info_dismiss.xml" qualifiers="" type="anim"/><file name="pw_info_show" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\pw_info_show.xml" qualifiers="" type="anim"/><file name="slide_top_alpha_anim" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\slide_top_alpha_anim.xml" qualifiers="" type="anim"/><file name="translucent_zoom_exit" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\translucent_zoom_exit.xml" qualifiers="" type="anim"/><file name="translucent_zoom_out" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\translucent_zoom_out.xml" qualifiers="" type="anim"/><file name="trans_x_in" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\trans_x_in.xml" qualifiers="" type="anim"/><file name="trans_x_out" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\anim\trans_x_out.xml" qualifiers="" type="anim"/><file name="login_select_tv" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\color\login_select_tv.xml" qualifiers="" type="color"/><file name="primary_text_light" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\color\primary_text_light.xml" qualifiers="" type="color"/><file name="secondary_text_light" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\color\secondary_text_light.xml" qualifiers="" type="color"/><file name="selector_direc_textcolor" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\color\selector_direc_textcolor.xml" qualifiers="" type="color"/><file name="selector_labledit_textcolor" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\color\selector_labledit_textcolor.xml" qualifiers="" type="color"/><file name="selector_meet_history_textcolor" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\color\selector_meet_history_textcolor.xml" qualifiers="" type="color"/><file name="select_save_notes_textcolor" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\color\select_save_notes_textcolor.xml" qualifiers="" type="color"/><file name="tab_top_selector" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\color\tab_top_selector.xml" qualifiers="" type="color"/><file name="bg" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\bg.xml" qualifiers="" type="drawable"/><file name="black_white_reverse_drawable" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\black_white_reverse_drawable.xml" qualifiers="" type="drawable"/><file name="blue_tabbargray_reverse_drawable" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\blue_tabbargray_reverse_drawable.xml" qualifiers="" type="drawable"/><file name="btn_dialog" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\btn_dialog.xml" qualifiers="" type="drawable"/><file name="btn_stoken_update_selector" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\btn_stoken_update_selector.xml" qualifiers="" type="drawable"/><file name="busy" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\busy.xml" qualifiers="" type="drawable"/><file name="check_state" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\check_state.xml" qualifiers="" type="drawable"/><file name="circle_blue_n" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\circle_blue_n.xml" qualifiers="" type="drawable"/><file name="circle_blue_p" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\circle_blue_p.xml" qualifiers="" type="drawable"/><file name="circle_white" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\circle_white.xml" qualifiers="" type="drawable"/><file name="custom_negavbtn_selector" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\custom_negavbtn_selector.xml" qualifiers="" type="drawable"/><file name="custom_posbtn_selector" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\custom_posbtn_selector.xml" qualifiers="" type="drawable"/><file name="custom_progress_white_draw" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\custom_progress_white_draw.xml" qualifiers="" type="drawable"/><file name="dim_round_background" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\dim_round_background.xml" qualifiers="" type="drawable"/><file name="img_flash_state" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\img_flash_state.xml" qualifiers="" type="drawable"/><file name="img_scanner_flash" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\img_scanner_flash.xml" qualifiers="" type="drawable"/><file name="item_cell_bg" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\item_cell_bg.xml" qualifiers="" type="drawable"/><file name="item_light_bg_selector" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\item_light_bg_selector.xml" qualifiers="" type="drawable"/><file name="item_white_bg_selector" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\item_white_bg_selector.xml" qualifiers="" type="drawable"/><file name="loading_dialog_bg" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\loading_dialog_bg.xml" qualifiers="" type="drawable"/><file name="loading_pdf_busy" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\loading_pdf_busy.xml" qualifiers="" type="drawable"/><file name="mediacontroller_btn_bg" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\mediacontroller_btn_bg.xml" qualifiers="" type="drawable"/><file name="point_background" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\point_background.xml" qualifiers="" type="drawable"/><file name="point_bg_enable" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\point_bg_enable.xml" qualifiers="" type="drawable"/><file name="point_bg_normal" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\point_bg_normal.xml" qualifiers="" type="drawable"/><file name="progressbar_white_draw" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\progressbar_white_draw.xml" qualifiers="" type="drawable"/><file name="progress_bar_states" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\progress_bar_states.xml" qualifiers="" type="drawable"/><file name="seekbar_progress" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\seekbar_progress.xml" qualifiers="" type="drawable"/><file name="seekbar_thumb" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\seekbar_thumb.xml" qualifiers="" type="drawable"/><file name="select_bookmark_icon" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\select_bookmark_icon.xml" qualifiers="" type="drawable"/><file name="toast_bg" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\toast_bg.xml" qualifiers="" type="drawable"/><file name="top_select_dialog" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\top_select_dialog.xml" qualifiers="" type="drawable"/><file name="transparent" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\transparent.xml" qualifiers="" type="drawable"/><file name="xml_edit_blue" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\xml_edit_blue.xml" qualifiers="" type="drawable"/><file name="yi_list_item_text_color_selector" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable\yi_list_item_text_color_selector.xml" qualifiers="" type="drawable"/><file name="bookmake_normal" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\bookmake_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="bookmake_press" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\bookmake_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_orange_match" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\button_orange_match.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="iconfont_downgrey" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\iconfont_downgrey.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_bar_exit" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_bar_exit.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_brompt_dot_red" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_brompt_dot_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_delete" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_delete.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launchers" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_launchers.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_lightbg_press" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_lightbg_press.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_login_meeting" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_login_meeting.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_menu_notification" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_menu_notification.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_pulltorefresh_arrow" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_pulltorefresh_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_scanner_flash_n" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_scanner_flash_n.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_scanner_flash_p" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\ic_scanner_flash_p.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="imb_white0" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\imb_white0.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="imb_white1" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\imb_white1.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="line_gray" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\line_gray.png" qualifiers="hdpi-v4" type="drawable"/><file name="music_bg" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\music_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="music_bg_2" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\music_bg_2.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="music_bg_3" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\music_bg_3.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="music_list" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\music_list.png" qualifiers="hdpi-v4" type="drawable"/><file name="music_next" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\music_next.png" qualifiers="hdpi-v4" type="drawable"/><file name="music_pause" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\music_pause.png" qualifiers="hdpi-v4" type="drawable"/><file name="music_play" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\music_play.png" qualifiers="hdpi-v4" type="drawable"/><file name="music_prev" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\music_prev.png" qualifiers="hdpi-v4" type="drawable"/><file name="progress_background" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\progress_background.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="progress_normal" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\progress_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="sequence" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\sequence.png" qualifiers="hdpi-v4" type="drawable"/><file name="shunxu" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\shunxu.png" qualifiers="hdpi-v4" type="drawable"/><file name="single" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\single.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_info" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\video_info.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_list" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\video_list.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_next" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\video_next.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_pause" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\video_pause.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_play" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\video_play.png" qualifiers="hdpi-v4" type="drawable"/><file name="video_prev" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\video_prev.png" qualifiers="hdpi-v4" type="drawable"/><file name="welcomeui" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-hdpi\welcomeui.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launchers" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-ldpi\ic_launchers.png" qualifiers="ldpi-v4" type="drawable"/><file name="defaultalbum" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\defaultalbum.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_arrow_left" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\ic_arrow_left.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_cancel" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\ic_cancel.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_dialog" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\ic_dialog.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launchers" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\ic_launchers.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_link" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\ic_link.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_magnifying_glass" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\ic_magnifying_glass.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_search" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\ic_search.png" qualifiers="mdpi-v4" type="drawable"/><file name="music5" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\music5.png" qualifiers="mdpi-v4" type="drawable"/><file name="welcomeui" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-mdpi\welcomeui.png" qualifiers="mdpi-v4" type="drawable"/><file name="download_button" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\download_button.png" qualifiers="xhdpi-v4" type="drawable"/><file name="download_pause" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\download_pause.png" qualifiers="xhdpi-v4" type="drawable"/><file name="download_title" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\download_title.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_add1" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\icon_add1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_add2" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\icon_add2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_ab_distribute" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_ab_distribute.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_ab_meeting" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_ab_meeting.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_arrow_back_right" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_arrow_back_right.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_back" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_back.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_back_activity" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_back_activity.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_clear_action" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_clear_action.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_cover_page" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_cover_page.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_image_userinfo" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_image_userinfo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_img_loading" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_img_loading.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launchers" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_launchers.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_music_image" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_music_image.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_progress_rotate" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_progress_rotate.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_takeback" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_takeback.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_takeback_left" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_takeback_left.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_un_tip" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_un_tip.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_validate_time_nor" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_validate_time_nor.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_validate_time_select" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\ic_validate_time_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading_empty_default" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\loading_empty_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading_empty_logo" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\loading_empty_logo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="login_checkbox_selected" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\login_checkbox_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="login_checkbox_unselected" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\login_checkbox_unselected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="mechanism_tick" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\mechanism_tick.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pdf_info_bg" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\pdf_info_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone_logoin" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\phone_logoin.png" qualifiers="xhdpi-v4" type="drawable"/><file name="qrcode_scan_line" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\qrcode_scan_line.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tabbar_background" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\tabbar_background.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="title_line" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\title_line.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="toast_busy" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\toast_busy.png" qualifiers="xhdpi-v4" type="drawable"/><file name="toast_fail" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\toast_fail.png" qualifiers="xhdpi-v4" type="drawable"/><file name="toast_success" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\toast_success.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_info_bg" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\video_info_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="welcomeui" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\welcomeui.png" qualifiers="xhdpi-v4" type="drawable"/><file name="xlistview_arrow" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xhdpi\xlistview_arrow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_flash_c" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xxhdpi\ic_flash_c.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_flash_o" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xxhdpi\ic_flash_o.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launchers" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xxhdpi\ic_launchers.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="welcomeui" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\drawable-xxhdpi\welcomeui.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_capture" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_capture.xml" qualifiers="" type="layout"/><file name="activity_download_main" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_download_main.xml" qualifiers="" type="layout"/><file name="activity_findall_notes" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_findall_notes.xml" qualifiers="" type="layout"/><file name="activity_login" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_login2" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_login2.xml" qualifiers="" type="layout"/><file name="activity_mechanism" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_mechanism.xml" qualifiers="" type="layout"/><file name="activity_music_menu_list" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_music_menu_list.xml" qualifiers="" type="layout"/><file name="activity_music_play" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_music_play.xml" qualifiers="" type="layout"/><file name="activity_mymeeting_history" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_mymeeting_history.xml" qualifiers="" type="layout"/><file name="activity_outline_tab" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_outline_tab.xml" qualifiers="" type="layout"/><file name="activity_pdf_buttons" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_pdf_buttons.xml" qualifiers="" type="layout"/><file name="activity_pdf_menu_list" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_pdf_menu_list.xml" qualifiers="" type="layout"/><file name="activity_register" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_register.xml" qualifiers="" type="layout"/><file name="activity_retrievepassword" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_retrievepassword.xml" qualifiers="" type="layout"/><file name="activity_save_notes" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_save_notes.xml" qualifiers="" type="layout"/><file name="activity_scanhistory" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_scanhistory.xml" qualifiers="" type="layout"/><file name="activity_setting" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_setting.xml" qualifiers="" type="layout"/><file name="activity_sz_about" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_sz_about.xml" qualifiers="" type="layout"/><file name="activity_sz_about2" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_sz_about2.xml" qualifiers="" type="layout"/><file name="activity_sz_info" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_sz_info.xml" qualifiers="" type="layout"/><file name="activity_video_menu_list" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_video_menu_list.xml" qualifiers="" type="layout"/><file name="activity_video_player" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_video_player.xml" qualifiers="" type="layout"/><file name="activity_welcome" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\activity_welcome.xml" qualifiers="" type="layout"/><file name="common_custom_toast" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\common_custom_toast.xml" qualifiers="" type="layout"/><file name="dialog_bgloading" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_bgloading.xml" qualifiers="" type="layout"/><file name="dialog_clear" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_clear.xml" qualifiers="" type="layout"/><file name="dialog_common" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_common.xml" qualifiers="" type="layout"/><file name="dialog_content" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_content.xml" qualifiers="" type="layout"/><file name="dialog_isdelete" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_isdelete.xml" qualifiers="" type="layout"/><file name="dialog_loading" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_loading.xml" qualifiers="" type="layout"/><file name="dialog_pdf_infor" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_pdf_infor.xml" qualifiers="" type="layout"/><file name="dialog_pdf_lable" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_pdf_lable.xml" qualifiers="" type="layout"/><file name="dialog_pdf_lable_edit" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_pdf_lable_edit.xml" qualifiers="" type="layout"/><file name="dialog_update_app" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_update_app.xml" qualifiers="" type="layout"/><file name="dialog_user" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_user.xml" qualifiers="" type="layout"/><file name="dialog_video_info" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_video_info.xml" qualifiers="" type="layout"/><file name="dialog_warning" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\dialog_warning.xml" qualifiers="" type="layout"/><file name="edit_view_textentry" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\edit_view_textentry.xml" qualifiers="" type="layout"/><file name="empty_view" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\empty_view.xml" qualifiers="" type="layout"/><file name="fragment_music_img" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\fragment_music_img.xml" qualifiers="" type="layout"/><file name="fragment_music_lyc" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\fragment_music_lyc.xml" qualifiers="" type="layout"/><file name="fragment_pdf_bookmark" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\fragment_pdf_bookmark.xml" qualifiers="" type="layout"/><file name="fragment_pdf_outline" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\fragment_pdf_outline.xml" qualifiers="" type="layout"/><file name="item_albumlist_adapter" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_albumlist_adapter.xml" qualifiers="" type="layout"/><file name="item_download_main" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_download_main.xml" qualifiers="" type="layout"/><file name="item_download_main_bak" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_download_main_bak.xml" qualifiers="" type="layout"/><file name="item_download_main_local" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_download_main_local.xml" qualifiers="" type="layout"/><file name="item_mechanism" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_mechanism.xml" qualifiers="" type="layout"/><file name="item_menu_list" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_menu_list.xml" qualifiers="" type="layout"/><file name="item_music_menu_list" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_music_menu_list.xml" qualifiers="" type="layout"/><file name="item_mymeeting_record" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_mymeeting_record.xml" qualifiers="" type="layout"/><file name="item_pdf_mark" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_pdf_mark.xml" qualifiers="" type="layout"/><file name="item_pdf_outline" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_pdf_outline.xml" qualifiers="" type="layout"/><file name="item_scanhistory" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_scanhistory.xml" qualifiers="" type="layout"/><file name="item_video_lists" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\item_video_lists.xml" qualifiers="" type="layout"/><file name="loadingindicator_loading" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\loadingindicator_loading.xml" qualifiers="" type="layout"/><file name="media_control_layout" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\media_control_layout.xml" qualifiers="" type="layout"/><file name="music_icon_layout" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\music_icon_layout.xml" qualifiers="" type="layout"/><file name="notification_app_update" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\notification_app_update.xml" qualifiers="" type="layout"/><file name="notification_music_playbar" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\notification_music_playbar.xml" qualifiers="" type="layout"/><file name="no_ptr_header" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\no_ptr_header.xml" qualifiers="" type="layout"/><file name="preference" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\preference.xml" qualifiers="" type="layout"/><file name="preference_category" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\preference_category.xml" qualifiers="" type="layout"/><file name="recyclerview_footer" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\recyclerview_footer.xml" qualifiers="" type="layout"/><file name="recyclerview_header" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\recyclerview_header.xml" qualifiers="" type="layout"/><file name="retailers_activity" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\retailers_activity.xml" qualifiers="" type="layout"/><file name="tab_top" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\tab_top.xml" qualifiers="" type="layout"/><file name="textentry" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\textentry.xml" qualifiers="" type="layout"/><file name="textinput_dialog" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\textinput_dialog.xml" qualifiers="" type="layout"/><file name="title_common_bar" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\title_common_bar.xml" qualifiers="" type="layout"/><file name="title_download_head" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\title_download_head.xml" qualifiers="" type="layout"/><file name="title_home_head" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\title_home_head.xml" qualifiers="" type="layout"/><file name="title_meeting_bar" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\title_meeting_bar.xml" qualifiers="" type="layout"/><file name="title_music_bar" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\title_music_bar.xml" qualifiers="" type="layout"/><file name="title_mymeeting_common_bar" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\title_mymeeting_common_bar.xml" qualifiers="" type="layout"/><file name="title_pdf_notes_bar" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\title_pdf_notes_bar.xml" qualifiers="" type="layout"/><file name="xlistview_footer" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\xlistview_footer.xml" qualifiers="" type="layout"/><file name="xlistview_header" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\layout\xlistview_header.xml" qualifiers="" type="layout"/><file name="menu_main" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\menu\menu_main.xml" qualifiers="" type="menu"/><file name="beep" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="FlatButton">
+        <attr format="boolean" name="shadowEnabled"/>
+        <attr format="color" name="buttonColor"/>
+        <attr format="color" name="shadowColor"/>
+        <attr format="dimension" name="shadowHeight"/>
+        <attr format="dimension" name="cornerRadius"/>
+    </declare-styleable><declare-styleable name="RoundProgressBar">
+        <attr format="color" name="roundColor"/>
+        <attr format="color" name="roundProgressColor"/>
+        <attr format="dimension" name="roundWidth"/>
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="integer" name="max"/>
+        <attr format="boolean" name="textIsDisplayable"/>
+        <attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FlingGalleryView">
+        <attr format="integer" name="defaultScreen"/>
+    </declare-styleable><declare-styleable name="AVLoadingIndicatorView">
+        <attr name="indicator">
+            <flag name="BallPulse" value="0"/>
+            <flag name="BallGridPulse" value="1"/>
+            <flag name="BallClipRotate" value="2"/>
+            <flag name="BallClipRotatePulse" value="3"/>
+            <flag name="SquareSpin" value="4"/>
+            <flag name="BallClipRotateMultiple" value="5"/>
+            <flag name="BallPulseRise" value="6"/>
+            <flag name="BallRotate" value="7"/>
+            <flag name="CubeTransition" value="8"/>
+            <flag name="BallZigZag" value="9"/>
+            <flag name="BallZigZagDeflect" value="10"/>
+            <flag name="BallTrianglePath" value="11"/>
+            <flag name="BallScale" value="12"/>
+            <flag name="LineScale" value="13"/>
+            <flag name="LineScaleParty" value="14"/>
+            <flag name="BallScaleMultiple" value="15"/>
+            <flag name="BallPulseSync" value="16"/>
+            <flag name="BallBeat" value="17"/>
+            <flag name="LineScalePulseOut" value="18"/>
+            <flag name="LineScalePulseOutRapid" value="19"/>
+            <flag name="BallScaleRipple" value="20"/>
+            <flag name="BallScaleRippleMultiple" value="21"/>
+            <flag name="BallSpinFadeLoader" value="22"/>
+            <flag name="LineSpinFadeLoader" value="23"/>
+            <flag name="TriangleSkewSpin" value="24"/>
+            <flag name="Pacman" value="25"/>
+            <flag name="BallGridBeat" value="26"/>
+            <flag name="SemiCircleSpin" value="27"/>
+        </attr>
+        <attr format="color" name="indicator_color"/>
+    </declare-styleable><declare-styleable name="Themes">
+        <attr format="reference" name="waveViewStyle"/>
+    </declare-styleable><declare-styleable name="ProgressWheel">
+        <attr format="boolean" name="matProg_progressIndeterminate"/>
+        <attr format="color" name="matProg_barColor"/>
+        <attr format="color" name="matProg_rimColor"/>
+        <attr format="dimension" name="matProg_rimWidth"/>
+        <attr format="float" name="matProg_spinSpeed"/>
+        <attr format="integer" name="matProg_barSpinCycleTime"/>
+        <attr format="dimension" name="matProg_circleRadius"/>
+        <attr format="boolean" name="matProg_fillRadius"/>
+        <attr format="dimension" name="matProg_barWidth"/>
+        <attr format="boolean" name="matProg_linearProgress"/>
+    </declare-styleable><declare-styleable name="WaveView">
+        <attr format="color" name="above_wave_color"/>
+        <attr format="color" name="blow_wave_color"/>
+        <attr format="integer" name="progress"/>
+        <attr format="enum" name="wave_length">
+            <enum name="large" value="1"/>
+            <enum name="middle" value="2"/>
+            <enum name="little" value="3"/>
+        </attr>
+        <attr format="enum" name="wave_height">
+            <enum name="large" value="1"/>
+            <enum name="middle" value="2"/>
+            <enum name="little" value="3"/>
+        </attr>
+        <attr format="enum" name="wave_hz">
+            <enum name="fast" value="1"/>
+            <enum name="normal" value="2"/>
+            <enum name="slow" value="3"/>
+        </attr>
+    </declare-styleable></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\colors.xml" qualifiers=""><color name="darkcyan">#008b8b</color><color name="olivedrab">#6b8e23</color><color name="darkmagenta">#8b008b</color><color name="Grey">#e6e6e6</color><color name="goshoppingcart_stroll_blue">#0b95d5</color><color name="darkgreen">#006400</color><color name="seagreen">#2e8b57</color><color name="savenotes_view_one">#797979</color><color name="head_text">#0e5986</color><color name="transparent">#00000000</color><color name="peru">#cd853f</color><color name="slategrey">#708090</color><color name="beige">#f5f5dc</color><color name="background_dark">#f4f4f4</color><color name="lavenderblush">#fff0f5</color><color name="classify_text_color">#eb771a</color><color name="imagepager_title">#ffb5b5b5</color><color name="Greydialog">#f2f2f2</color><color name="video_txt_blue">#5CACEE</color><color name="savenotes_view_two">#acacac</color><color name="touming">#00000000</color><color name="chocolate">#d2691e</color><color name="title_text_color_red">#c25f16</color><color name="ghostwhite">#f8f8ff</color><color name="cornk">#fff8dc</color><color name="purple">#800080</color><color name="color_blue">#ff3995e3</color><color name="burlywood">#deb887</color><color name="grey">#FFC0C0C0</color><color name="viewfinder_frame">#ff000000</color><color name="lightgray">#d3d3d3</color><color name="mediumvioletred">#c71585</color><color name="darkgrey">#FF808080</color><color name="imagepager_bg_transparent">#00ffffff</color><color name="darkkhaki">#bdb76b</color><color name="rosybrown">#bc8f8f</color><color name="dodgerblue">#1e90ff</color><color name="color_4c4c4c">#4c4c4c</color><color name="button_normal">#00000000</color><color name="peachpuff">#ffdab9</color><color name="lightblue">#add8e6</color><color name="black">#ff000000</color><color name="gainsboro">#dcdcdc</color><color name="saddlebrown">#8b4513</color><color name="title_bar_bg_color">#4FBFE8</color><color name="viewfinder_mask">#00000000</color><color name="background_main">#f3f3f3</color><color name="edit_text_color">#ff333333</color><color name="pop_bg">#171818</color><color name="cadetblue">#5f9ea0</color><color name="tomato">#ff6347</color><color name="content_text_color_red">#f2613a</color><color name="yun_blue">#ff177be1</color><color name="aquamarine">#7fffd4</color><color name="indianred">#cd5c5c</color><color name="login_other_auth">#ff757575</color><color name="forestgreen">#228b22</color><color name="seaShell">#fff5ee</color><color name="wheat">#f5deb3</color><color name="instruction_text_color">#999999</color><color name="cornflowerblue">#6495ed</color><color name="seek_progress">#FFFFFF</color><color name="darksalmon">#e9967a</color><color name="mediumorchid">#ba55d3</color><color name="pdf_bkg_menu">#666666</color><color name="cyan">#00ffff</color><color name="ivory">#ffffff</color><color name="text_default_color">#ffb5b5b5</color><color name="aliceblue">#f0f8ff</color><color name="limegreen">#D1EEEE</color><color name="tip_text_color">#ff333333</color><color name="light_gray">#A0000000</color><color name="dim_foreground_light_disabled">#80323232</color><color name="btn_text_color">#ffffff</color><color name="darkgoldenrod">#b8860b</color><color name="springgreen">#00ff7f</color><color name="snow">#fffafa</color><color name="author_text">#0e5986</color><color name="whitesmoke">#f5f5f5</color><color name="pink">#FFC0CB</color><color name="mediacontroller_bg_pressed">#ff53c1bd</color><color name="firebrick">#b22222</color><color name="lightseagreen">#20b2aa</color><color name="balance_center_blue">#f2f8f1</color><color name="home_dialog_background">#fafafa</color><color name="blue_gray">#ff6d849f</color><color name="limit_buy_border_bg">#ffd4bc77</color><color name="coral">#ff7f50</color><color name="search_toolbar_bg">#ff484B50</color><color name="lawngreen">#7cfc00</color><color name="edit_hint_color">#ffdddddd</color><color name="sandybrown">#f4a460</color><color name="moccasin">#ffe4b5</color><color name="lavender">#e6e6fa</color><color name="activity_view_bg">#fff8f8f8</color><color name="magenta">#ff00ff</color><color name="darkgray">#a9a9a9</color><color name="palegoldenrod">#eee8aa</color><color name="tmhuise">#EBEBEB</color><color name="greenyellow">#adff2f</color><color name="darkturquoise">#00ced1</color><color name="navy">#000080</color><color name="huise">#f9f8f9</color><color name="subhead_text_color">#666666</color><color name="dialog_line">#8F999999</color><color name="black_bb">#bb000000</color><color name="darkviolet">#9400d3</color><color name="mistyrose">#ffe4e1</color><color name="lightgreen">#FF78A00A</color><color name="heise">#050505</color><color name="line_color">#d7d7d7</color><color name="navajowhite">#ffdead</color><color name="yellow_warning">#FFFFC8</color><color name="yellow">#ffff00</color><color name="tan">#d2b48c</color><color name="fuchsia">#ff00ff</color><color name="paleturquoise">#afeeee</color><color name="azure">#f0ffff</color><color name="half_transparent">#e0000000</color><color name="plum">#dda0dd</color><color name="darkseagreen">#8fbc8f</color><color name="mediumblue">#0000cd</color><color name="olive">#808000</color><color name="web_main_green">#7bc216</color><color name="skyblue">#87ceeb</color><color name="lightsalmon">#ffa07a</color><color name="dim_foreground_light">#808080</color><color name="bg_color_deep">#E5E5E5</color><color name="normal">#ff474747</color><color name="text_default">#ff2c2c2c</color><color name="lightcyan">#e0ffff</color><color name="maroon">#800000</color><color name="menu_bg_normal">#FF666666</color><color name="mediumspringgreen">#00fa9a</color><color name="royalblue">#4169e1</color><color name="dim_foreground_light_inverse">#ff006eaa</color><color name="busy_indicator">#C0202020</color><color name="video_bkg_dark">#000000</color><color name="gray_stroke">#bdbdbd</color><color name="mintcream">#f5fffa</color><color name="text_color_red">#f15125</color><color name="possible_result_points">#c0ffff00</color><color name="floralwhite">#fffaf0</color><color name="dimgray">#696969</color><color name="orchid">#da70d6</color><color name="pdf_lv_bkg">#312d33</color><color name="bisque">#ffe4c4</color><color name="goldenrod">#daa520</color><color name="toolbar">#C0000000</color><color name="palegreen">#98fb98</color><color name="mediumturquoise">#48d1cc</color><color name="green">#61A000</color><color name="darkslategray">#2f4f4f</color><color name="lime">#00ff00</color><color name="video_bkg_lightdark">#201E1F</color><color name="darkslateblue">#483d8b</color><color name="oldlace">#EE2C2C</color><color name="darkblue">#00008b</color><color name="white">#ffffffff</color><color name="palevioletred">#db7093</color><color name="savenotes_tv">#696969</color><color name="bookmarks">#4D4D4D</color><color name="steelblue">#4682b4</color><color name="result_view">#b0000000</color><color name="dialog_blue">#56c3ea</color><color name="lightslategrey">#778899</color><color name="midnightblue">#191970</color><color name="listitem_black">#ff000000</color><color name="salmon">#fa8072</color><color name="crimson">#dc143c</color><color name="darkorange">#ff8c00</color><color name="tab_top_text_1">#ffffff</color><color name="title_text_color">#333333</color><color name="darkolivegreen">#556b2f</color><color name="dialog_btn">#FF8D8D8D</color><color name="tab_top_text_2">#87CEFA</color><color name="darkred">#8b0000</color><color name="color_white">#ffffffff</color><color name="lightpink">#ffb6c1</color><color name="mediumaquamarine">#66cdaa</color><color name="bright_foreground_light_disabled">#80000000</color><color name="mediacontroller_bg">#99000000</color><color name="mediumpurple">#9370db</color><color name="thistle">#d8bfd8</color><color name="silver">#c0c0c0</color><color name="dialog_divider">#FF4DB6FF</color><color name="dim_foreground_light_inverse_disabled">#80bebebe</color><color name="slategray">#708090</color><color name="progress_blue">#ff06a7ed</color><color name="lightgoldenrodyellow">#fafad2</color><color name="bright_foreground_light">#ff000000</color><color name="powderblue">#b0e0e6</color><color name="indigo">#4b0082</color><color name="lightsteelblue">#b0c4de</color><color name="slateblue">#6a5acd</color><color name="progress_gray">#ff7f7f7f</color><color name="lightyellow">#ffffe0</color><color name="blueviolet">#8a2be2</color><color name="orangered">#ff4500</color><color name="brown">#a52a2a</color><color name="bg_color">#F4F3F3</color><color name="dimgrey">#696969</color><color name="dialog_info">#FF284F7A</color><color name="antiquewhite">#faebd7</color><color name="bright_foreground_light_inverse">#ffffffff</color><color name="login_button">#ff775025</color><color name="deepskyblue">#00bfff</color><color name="main_title_orange">#f4a460</color><color name="viewfinder_laser">#ffff0000</color><color name="video_bkg_tianlanse">#87CEFA</color><color name="teal">#008080</color><color name="title">#ff274462</color><color name="blue">#ff3995e3</color><color name="orange">#ffa500</color><color name="video_bkg_light">#1d1d1d</color><color name="gold">#ffd700</color><color name="darkslategrey">#2f4f4f</color><color name="savenotes_Hint_tv">#777777</color><color name="gray">#A6A6A0</color><color name="mediumslateblue">#7b68ee</color><color name="bg_default_color">#edffffff</color><color name="lightgrey">#FFDCDCDC</color><color name="darkorchid">#9932cc</color><color name="hotpink">#ff69b4</color><color name="menu_bg_focus">#C8000000</color><color name="lightcoral">#f08080</color><color name="violet">#ee82ee</color><color name="round_color">#3156c3ea</color><color name="khaki">#f0e68c</color><color name="papayawhip">#ffefd5</color><color name="toast_color">#ff2E76B9</color><color name="lightskyblue">#87cefa</color><color name="aqua">#00ffff</color><color name="lightslategray">#778899</color><color name="sienna">#a0522d</color><color name="content_text_color_white">#ffffff</color><color name="red">#FF0000</color><color name="button_pressed">#FF2572AC</color><color name="btn_pressed">#ff409be4</color><color name="blanchedalmond">#ffebcd</color><color name="linen">#faf0e6</color><color name="progressbar_bg">#ff5c5c5c</color><color name="main_bg_color">#FEFEFE</color><color name="yellow_font_color">#FF6600</color><color name="deeppink">#ff1493</color><color name="turquoise">#40e0d0</color><color name="mediumseagreen">#3cb371</color><color name="trans_title_back">#ffd3e7f2</color><color name="lemonchiffon">#fffacd</color><color name="chartreuse">#7fff00</color><color name="translucence">#b0000000</color></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\config.xml" qualifiers=""><string name="ftp_name">anonymous</string><string name="ftp_pwd"/><string name="ftp_host">115.28.21.46</string></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="home_dilog_marginLeft">20dp</dimen><dimen name="textandiconmargin">10dp</dimen><dimen name="userInfo_marginRight">12sp</dimen><dimen name="seekbar_height">2.0dp</dimen><dimen name="tab_top_fontsize">15sp</dimen><dimen name="videoinfo_text_size">15sp</dimen><dimen name="sz_info_marginLeft">10sp</dimen><dimen name="tv_14">14sp</dimen><dimen name="headback_height">18sp</dimen><dimen name="music_img_height">50dip</dimen><dimen name="title_bar_text">18.0dp</dimen><dimen name="video_startOrPause_button_size">43dp</dimen><dimen name="sz_info_marginTop">13sp</dimen><dimen name="login_edit_text">15dp</dimen><dimen name="tab_height">56dp</dimen><dimen name="home_dilog_marginBottom">25dp</dimen><dimen name="distance_length">10.0dip</dimen><dimen name="home_dilog_text">18dp</dimen><dimen name="tab_width">180dp</dimen><dimen name="login_text">18dp</dimen><dimen name="main_tab_background_height">50.0dip</dimen><dimen name="home_dilog_lineHeight">2dp</dimen><dimen name="userInfo_height">30sp</dimen><dimen name="alt_title_text_size">15sp</dimen><dimen name="userInfo_width">28sp</dimen><dimen name="video_button_size">33dp</dimen><dimen name="tab_text_size">16sp</dimen><dimen name="vote_title_bar_height">35.0dp</dimen><dimen name="item_image_width">87dip</dimen><dimen name="alt_validity_text_size">10sp</dimen><dimen name="music_img_width">50dip</dimen><dimen name="text_size_small">14.0dip</dimen><dimen name="home_dilog_marginTop">10dp</dimen><dimen name="item_image_height">88dip</dimen><dimen name="sz_info_button_margineLeft">15sp</dimen><dimen name="text_size_smaller">12.0dip</dimen><dimen name="roundbar_width">2.0dp</dimen><dimen name="text_size_amazing_large">25.0dip</dimen><dimen name="headback_width">15sp</dimen><dimen name="sz_text_size">16sp</dimen><dimen name="title_bar_height">50.0dp</dimen><dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen><dimen name="title_music_home_bar_height">72.0dp</dimen></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\ids.xml" qualifiers=""><item name="return_scan_result" type="id"/><item name="launch_product_query" type="id"/><item name="decode_succeeded" type="id"/><item name="decode" type="id"/><item name="decode_failed" type="id"/><item name="item_touch_helper_previous_elevation" type="id"/><item name="encode_succeeded" type="id"/><item name="encode_failed" type="id"/><item name="restart_preview" type="id"/><item name="search_book_contents_failed" type="id"/><item name="quit" type="id"/><item name="search_book_contents_succeeded" type="id"/><item name="auto_focus" type="id"/></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\pla__attrs.xml" qualifiers=""><declare-styleable name="AbsListView">
+
+        
+        <attr format="color|reference" name="listSelector"/>
+        
+        <attr format="boolean" name="drawSelectorOnTop"/>
+        
+        <attr format="boolean" name="stackFromBottom"/>
+        
+        <attr format="boolean" name="scrollingCache"/>
+        
+        <attr format="boolean" name="textFilterEnabled"/>
+        
+        <attr name="transcriptMode">
+
+            
+            <enum name="disabled" value="0"/>
+            
+            <enum name="normal" value="1"/>
+            
+            <enum name="alwaysScroll" value="2"/>
+        </attr>
+        
+        <attr format="color" name="cacheColorHint"/>
+        
+        <attr format="boolean" name="fastScrollEnabled"/>
+        
+        <attr format="boolean" name="smoothScrollbar"/>
+        
+        <attr name="choiceMode">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="singleChoice" value="1"/>
+            
+            <enum name="multipleChoice" value="2"/>
+            
+            <enum name="multipleChoiceModal" value="3"/>
+        </attr>
+
+        
+        <attr format="boolean" name="fastScrollAlwaysVisible"/>
+    </declare-styleable><attr format="reference" name="absListViewStyle"/><declare-styleable name="View">
+
+        
+        <attr format="reference" name="id"/>
+
+        
+        <attr format="string" name="tag"/>
+
+        
+        <attr format="dimension" name="scrollX"/>
+
+        
+        <attr format="dimension" name="scrollY"/>
+
+        
+
+
+        
+
+
+        
+        <attr format="dimension" name="padding"/>
+        
+        <attr format="dimension" name="paddingLeft"/>
+        
+        <attr format="dimension" name="paddingTop"/>
+        
+        <attr format="dimension" name="paddingRight"/>
+        
+        <attr format="dimension" name="paddingBottom"/>
+        
+        <attr format="dimension" name="paddingStart"/>
+        
+        <attr format="dimension" name="paddingEnd"/>
+
+        
+        <attr format="boolean" name="focusable"/>
+
+        
+        <attr format="boolean" name="focusableInTouchMode"/>
+
+        
+        <attr name="visibility">
+
+            
+            <enum name="visible" value="0"/>
+            
+            <enum name="invisible" value="1"/>
+            
+            <enum name="gone" value="2"/>
+        </attr>
+
+        
+        <attr format="boolean" name="fitsSystemWindows"/>
+
+        
+        <attr name="scrollbars">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00000100"/>
+            
+            <flag name="vertical" value="0x00000200"/>
+        </attr>
+
+        
+        <attr name="scrollbarStyle">
+
+            
+            <enum name="insideOverlay" value="0x0"/>
+            
+            <enum name="insideInset" value="0x01000000"/>
+            
+            <enum name="outsideOverlay" value="0x02000000"/>
+            
+            <enum name="outsideInset" value="0x03000000"/>
+        </attr>
+
+        
+        <attr format="boolean" name="isScrollContainer"/>
+
+        
+        <attr format="boolean" name="fadeScrollbars"/>
+        
+        <attr format="integer" name="scrollbarFadeDuration"/>
+        
+        <attr format="integer" name="scrollbarDefaultDelayBeforeFade"/>
+        
+        <attr format="dimension" name="scrollbarSize"/>
+        
+        <attr format="reference" name="scrollbarThumbHorizontal"/>
+        
+        <attr format="reference" name="scrollbarThumbVertical"/>
+        
+        <attr format="reference" name="scrollbarTrackHorizontal"/>
+        
+        <attr format="reference" name="scrollbarTrackVertical"/>
+        
+        <attr format="boolean" name="scrollbarAlwaysDrawHorizontalTrack"/>
+        
+        <attr format="boolean" name="scrollbarAlwaysDrawVerticalTrack"/>
+
+        
+        <attr name="fadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr>
+        
+        <attr name="requiresFadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr>
+        
+        <attr format="dimension" name="fadingEdgeLength"/>
+
+        
+        <attr format="reference" name="nextFocusLeft"/>
+
+        
+        <attr format="reference" name="nextFocusRight"/>
+
+        
+        <attr format="reference" name="nextFocusUp"/>
+
+        
+        <attr format="reference" name="nextFocusDown"/>
+
+        
+        <attr format="reference" name="nextFocusForward"/>
+
+        
+        <attr format="boolean" name="clickable"/>
+
+        
+        <attr format="boolean" name="longClickable"/>
+
+        
+        <attr format="boolean" name="saveEnabled"/>
+
+        
+        <attr format="boolean" name="filterTouchesWhenObscured"/>
+
+        
+        <attr name="drawingCacheQuality">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="low" value="1"/>
+            
+            <enum name="high" value="2"/>
+        </attr>
+
+        
+        <attr format="boolean" name="keepScreenOn"/>
+
+        
+        <attr format="boolean" name="duplicateParentState"/>
+
+        
+        <attr format="dimension" name="minHeight"/>
+
+        
+        <attr format="dimension" name="minWidth"/>
+
+        
+        <attr format="boolean" name="soundEffectsEnabled"/>
+
+        
+        <attr format="boolean" name="hapticFeedbackEnabled"/>
+
+        
+        <attr format="string" localization="suggested" name="contentDescription"/>
+
+        
+        <attr format="string" name="onClick"/>
+
+        
+        <attr name="overScrollMode">
+
+            
+            <enum name="always" value="0"/>
+            
+            <enum name="ifContentScrolls" value="1"/>
+            
+            <enum name="never" value="2"/>
+        </attr>
+
+        
+        <attr format="float" name="alpha"/>
+
+        
+        <attr format="dimension" name="translationX"/>
+
+        
+        <attr format="dimension" name="translationY"/>
+
+        
+        <attr format="dimension" name="transformPivotX"/>
+
+        
+        <attr format="dimension" name="transformPivotY"/>
+
+        
+        <attr format="float" name="rotation"/>
+
+        
+        <attr format="float" name="rotationX"/>
+
+        
+        <attr format="float" name="rotationY"/>
+
+        
+        <attr format="float" name="scaleX"/>
+
+        
+        <attr format="float" name="scaleY"/>
+
+        
+        <attr name="verticalScrollbarPosition">
+
+            
+            <enum name="defaultPosition" value="0"/>
+            
+            <enum name="left" value="1"/>
+            
+            <enum name="right" value="2"/>
+        </attr>
+
+        
+        <attr name="layerType">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="software" value="1"/>
+            
+            <enum name="hardware" value="2"/>
+        </attr>
+
+        
+        <attr name="layoutDirection">
+
+            
+            <enum name="ltr" value="0"/>
+            
+            <enum name="rtl" value="1"/>
+            
+            <enum name="inherit" value="2"/>
+            
+            <enum name="locale" value="3"/>
+        </attr>
+
+        
+        <attr format="integer" name="textDirection">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="firstStrong" value="1"/>
+            
+            <enum name="anyRtl" value="2"/>
+            
+            <enum name="ltr" value="3"/>
+            
+            <enum name="rtl" value="4"/>
+            
+            <enum name="locale" value="5"/>
+        </attr>
+
+        
+        <attr format="integer" name="textAlignment">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="gravity" value="1"/>
+            
+            <enum name="textStart" value="2"/>
+            
+            <enum name="textEnd" value="3"/>
+            
+            <enum name="center" value="4"/>
+            
+            <enum name="viewStart" value="5"/>
+            
+            <enum name="viewEnd" value="6"/>
+        </attr>
+
+        
+        <attr format="integer" name="importantForAccessibility">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr>
+
+        
+        <attr format="integer" name="accessibilityFocusable">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ViewGroup">
+
+        
+        <attr format="boolean" name="animateLayoutChanges"/>
+        
+        <attr format="boolean" name="clipChildren"/>
+        
+        <attr format="boolean" name="clipToPadding"/>
+        
+        <attr format="reference" name="layoutAnimation"/>
+        
+        <attr format="boolean" name="animationCache"/>
+        
+        <attr name="persistentDrawingCache">
+
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="animation" value="0x1"/>
+            
+            <flag name="scrolling" value="0x2"/>
+            
+            <flag name="all" value="0x3"/>
+        </attr>
+        
+        <attr format="boolean" name="alwaysDrawnWithCache"/>
+        
+        <attr format="boolean" name="addStatesFromChildren"/>
+
+        
+        <attr name="descendantFocusability">
+
+            
+            <enum name="beforeDescendants" value="0"/>
+            
+            <enum name="afterDescendants" value="1"/>
+            
+            <enum name="blocksDescendants" value="2"/>
+        </attr>
+
+        
+        <attr format="boolean" name="splitMotionEvents"/>
+    </declare-styleable><declare-styleable name="PinterestLikeAdapterView">
+        <attr format="integer" name="plaColumnNumber"/>
+        <attr format="integer" name="plaLandscapeColumnNumber"/>
+        <attr format="dimension" name="plaColumnPaddingLeft"/>
+        <attr format="dimension" name="plaColumnPaddingRight"/>
+    </declare-styleable><attr format="reference" name="listViewStyle"/><declare-styleable name="ListView">
+
+        
+		
+        
+        <attr format="dimension" name="dividerHeight"/>
+        
+        <attr format="boolean" name="headerDividersEnabled"/>
+        
+        <attr format="boolean" name="footerDividersEnabled"/>
+        
+        <attr format="reference|color" name="overScrollHeader"/>
+        
+        
+        <attr format="reference|color" name="overScrollFooter"/>
+    </declare-styleable></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\ptr_default_style.xml" qualifiers=""><style name="ptr_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style><style name="ptr_last_updated" parent="ptr_text">
+        <item name="android:textStyle">normal</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:layout_below">@+id/ptr_id_text</item>
+    </style><style name="ptr_header">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="ptr_arrow">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@drawable/ic_launchers</item>
+        <item name="android:layout_marginLeft">25dp</item>
+    </style><style name="ptr_textwrapper">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style><style name="ptr_headerContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0px</item>
+        <item name="android:gravity">bottom</item>
+    </style><style name="ptr_spinner" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:layout_marginLeft">25dp</item>
+    </style></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\strings.xml" qualifiers=""><string name="delete_ScanHistory">确定删除：</string><string name="file_info_size">大小:</string><string name="download_n_task_to_handle">您有%1$d条下载任务未完成，赶快去下载吧</string><string name="cur_version_name">当前版本号：%1$s</string><string name="print">打印</string><string name="category_all">所有</string><string name="scaning_empty">扫描为空信息</string><string name="xlistview_header_hint_loading">正在刷新中</string><string name="file_info_location">位置:</string><string name="close">关闭</string><string name="document_has_changes_save_them_">文档已变更，保存变更吗？</string><string name="delete_bookmarks">删除书签</string><string name="operation_info">详情</string><string name="update">更新</string><string name="operation_refresh">刷新</string><string name="choose_value">选择值</string><string name="read_miss_private_key">没有阅读权限！</string><string name="text_not_found">未发现文本</string><string name="download_content_title_offline">我的内容(离线)</string><string name="cancle">取消</string><string name="category_music">音乐</string><string name="offline_data_empty">离线内容为空，赶快连网去下载吧!</string><string name="user_back">返回</string><string name="strike_out">删除线</string><string name="login_hint_verification_code">验证码</string><string name="repeat_current">重复播放当前歌曲</string><string name="add_bookmarks_success">书签添加成功！</string><string name="click_too_fast">亲，你点击的太快啦~</string><string name="shuffle_none">随机播放已关闭</string><string name="xlistview_header_hint_ready">松开刷新数据</string><string name="look_meeting_company2">Copyright@kaihui.suizhi.com</string><string name="dialog_type_video">视频</string><string name="vitamio_videoview_error_text_unknown">Sorry, this video cannot be played.</string><string name="No_download">未下载</string><string name="xlistview_footer_hint_ready">松开载入更多</string><string name="Waiting">等待下载</string><string name="cannot_open_file_Path">无法打开文件：%1$s</string><string name="msg_login_username_null">用户名不能为空</string><string name="Connect_fail">连接失败</string><string name="username_tip">账号</string><string name="http_status_code_error">网络异常</string><string name="play_miss_private_key">没有播放权限！</string><string name="net_unavailable">网络连接不可用，请检查网络设置</string><string name="ptr_refreshing">Refreshing</string><string name="operation_create_folder_message">请输入文件夹名称</string><string name="register_setpassword">设置密码</string><string name="http_exception_error">网络异常，请求超时</string><string name="repeat_all">重复播放所有歌曲</string><string name="savenotes_et_hint">"请您输入备注。</string><string name="Parsering">正在解析</string><string name="sz_address">http://www.suizhi.net</string><string name="first_page">第1页</string><string name="confirm_know">知道了</string><string name="login_fail_disconnected">登录失败,无法连接服务器~</string><string name="login_hint_password">密码</string><string name="video_length">时长：</string><string name="ptr_last_updated">Updated: %1$s</string><string name="xml_dialog_delete_negative">取消</string><string name="my_meeting">我的会议</string><string name="bookmarks_exist">书签已经存在！</string><string name="category_video">视频</string><string name="msg_download_up">到达最大下载数</string><string name="msg_oom_error">内存空间不足</string><string name="toggle_reflow_mode">Toggle</string><string name="login_fail">登录失败</string><string name="over_time">已经过期</string><string name="load_no_more">已无数据</string><string name="edit_bookmarks">编辑书签</string><string name="have_not_add_bookmark">您还没有添加过书签~</string><string name="msg_login_fail">登录失败,请检查用户名或密码</string><string name="xml_dialog_delete_title">提示</string><string name="file_info_canwrite">可写:</string><string name="page_total">共%1$d页</string><string name="start_time">生效时间：   %1$s</string><string name="user_check_update">检查更新</string><string name="length_txt">/500</string><string name="network_is_not_available">网络无连接</string><string name="login_ing">正在登录…</string><string name="operation_show_sys">显示点文件和隐藏文件</string><string name="ask_update_version_new">是否升级当前程序至最新版本?</string><string name="operation_cancel">取消</string><string name="login_hint_account">账号</string><string name="app_name">开会</string><string name="logout">注销</string><string name="cannot_open_document">无法打开文档</string><string name="dialog_type_audio">音频</string><string name="clear_can_reloaded">清空后可重新下载</string><string name="please_waiting_n_download">%1$d个任务正在下载，再等会儿吧</string><string name="retrievepassword_confirm">确定</string><string name="end_time">有效期至:   %1$s</string><string name="menu_item_sort_size">大小</string><string name="stop_time_format">00:00</string><string name="login_account_not_empty">账号不能为空.</string><string name="operation_create_folder">新建文件夹</string><string name="scaning_again">请重新扫码登录…</string><string name="dialog_select_type">选择文件类型</string><string name="category_apk">安装包</string><string name="Recently_read">最近阅读</string><string name="login_hint_phone_number">手机号</string><string name="vitamio_videoview_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to
+	this device.</string><string name="video_count">%1$s个视频</string><string name="test">TEST</string><string name="app_exit">再按一次返回键将退出</string><string name="download_content_title">我的内容</string><string name="mechanism_add_hints">请点击右上角"+"加号,添加公司/机构/会议</string><string name="play_list_cycle">列表循环</string><string name="siger">歌手</string><string name="nothing_to_save">没有要保存的内容</string><string name="download_being_parsed">正在解析下载文件，请稍等。</string><string name="music_count">%1$s首音乐</string><string name="no_further_occurrences_found">未发现更多实例。</string><string name="account_email">%1$s@%2$s.com</string><string name="operation_paste">粘贴</string><string name="yesterday">昨天</string><string name="login_others">其他方式登录</string><string name="today">今天</string><string name="menu_item_sort_date">时间</string><string name="history_title">历史会议</string><string name="msg_insert_error">本地专辑信息存储失败</string><string name="the_latest_purchase">最新购买</string><string name="getdata_failed">抱歉,获取数据失败!</string><string name="copy_to_clip">已复制到剪贴板</string><string name="password_tip">密码</string><string name="app_error">应用程序错误</string><string name="clear_must_pause">请您先暂停下载任务，再清除。</string><string name="main_menu_logout">注销</string><string name="vitamio_videoview_error_title">Cannot play video</string><string name="menu_exit">退出</string><string name="warning_expired">对不起,您访问的文件已经过了有效期。</string><string name="scaning_login">扫码登录</string><string name="app_about_tip">关于开会</string><string name="timeline_today_time">%1$d:%2$02d</string><string name="download_n_data_complete">%1$s 下载完成</string><string name="no">否</string><string name="title_lable">列表</string><string name="cur_is_newclient">当前已是最新版本~</string><string name="sz_company">北京创世泰克科技有限公司 版权所有</string><string name="end_times">失效时间：   %1$s</string><string name="operation_rename_message">请输入新名称</string><string name="play_random">随机播放</string><string name="search_document">搜索文档</string><string name="msg_ftp_error">文件服务器异常</string><string name="isBack">是否退出绥知?</string><string name="buffering">buffering</string><string name="sz_info">关于绥知</string><string name="operation_selectall">全选</string><string name="timeline_this_year">%1$02d-%2$02d %3$02d:%4$02d</string><string name="parent_directory">[向上一级]</string><string name="bt_download_dialog_title">文件已存在,选择</string><string name="play_working">正在播放</string><string name="action_settings">设置</string><string name="Pauseing">暂停</string><string name="version_checking">检测版本中…</string><string name="look_meeting_company">kaihui.suizhi.com\n©2015</string><string name="account_cache_info">确定清理所有已下载专辑</string><string name="ask_clear_local_content">确定要清空已下载内容吗 ?</string><string name="timeline_minutes_ago">%1$d分钟以前</string><string name="download_1_task_to_handle">《%1$s》下载还未完成，是否继续？</string><string name="video_ower">作者：</string><string name="login_scan_code_history">扫描历史记录</string><string name="fail_to_create_folder">创建文件夹失败，文件夹已存在。</string><string name="timeline_before_year">%1$04d-%2$02d-%3$02d %4$02d:%5$02d</string><string name="the_last_page">当前为最后一页</string><string name="category_picture">图片</string><string name="version_wifi_update_tips">建议在wifi条件下更新</string><string name="Connecting">连接中</string><string name="visit_error">访问异常.</string><string name="search_backwards">向后搜索</string><string name="update_app_now">立即更新</string><string name="okay">确定</string><string name="xml_parser_failed">数据解析异常</string><string name="msg_download_alter">提示</string><string name="download">下载</string><string name="timeline_less_than_a_minute">刚刚</string><string name="mechanism_explain">选择您要进入的公司/机构\n点击右上角"+"加号,添加新的公司/机构</string><string name="title_pdf">PDF列表</string><string name="forever_time">永久有效</string><string name="xlistview_footer_hint_normal">查看更多</string><string name="fail">下载异常</string><string name="operation_hide_sys">隐藏点文件和隐藏文件</string><string name="tab_remote">远程</string><string name="net_subType_s">当前使用%1$s网络</string><string name="repeat_none">重复播放已关闭</string><string name="dialog_type_text">文本</string><string name="vitamio_videoview_error_button">OK</string><string name="login">登录</string><string name="file_info_modified">时间:</string><string name="user_me">我</string><string name="qrcode_scan">扫一扫</string><string name="operation_delete_confirm_message">确认删除?</string><string name="operation_delete">删除</string><string name="content_title_lable">内容列表</string><string name="enable_sd_card">无可用SD卡，请插入或连接SD卡</string><string name="shuffle">随机播放已打开</string><string name="no_file">没有文件</string><string name="login_verification">确定</string><string name="get_verification_code">获取验证码</string><string name="login_account_error">登陆失败,连接服务器异常.</string><string name="cancel">取消</string><string name="operation_move">剪切</string><string name="play_miss_authority">没有权限播放</string><string name="timeline_yestoday_time">昨天%1$d:%2$02d</string><string name="loginout_now">注销当前登录账户?</string><string name="fill_out_text_field">填充文本字段</string><string name="default_primary_folder">/mnt/sdcard</string><string name="sz_introduce">绥知是北京创世泰克科技有限公司自主研发的、以版权保护为己任的数字内容交易平台，着力于原创数字内容的“有价分享、按份交易”，任何消费者都可以使用绥知客户端。\n</string><string name="version_update_new">亲，开会有新版本更新了，为了更好的体验，请耐心升级到最新版！</string><string name="register_real_name">真实姓名</string><string name="menu_item_sort_type">类型</string><string name="xml_dialog_delete_info">您确定要退出吗?</string><string name="unit_huo">或</string><string name="des">img des</string><string name="scaning_login_history">扫码登录历史记录</string><string name="page_n">第%1$d页</string><string name="socket_exception_error">网络异常，读取数据超时</string><string name="isEmpty">是否清空已下载所有内容?</string><string name="descr_image">Image</string><string name="file_info_ishidden">隐藏:</string><string name="menu_settings">Settings</string><string name="forget_password">忘记密码</string><string name="ptr_pull_to_refresh">Pull to refresh</string><string name="loading">后台处理中……</string><string name="submit_report">提交报告</string><string name="sd_folder">SD card</string><string name="no_lyrics">当前没有找到歌词</string><string name="empty_bookmark">清空书签</string><string name="underline">下划线</string><string name="no_text_selected">未选择文本</string><string name="time">时长</string><string name="conference_list">会议列表</string><string name="please_waiting_n_update_download">%1$d个任务正在更新，再等会儿吧</string><string name="download_pause">暂停</string><string name="download_success">下载成功</string><string name="dead_time">有效期:   %1$s</string><string name="ptr_release_to_refresh">Release to refresh</string><string name="str_vote">投票</string><string name="user_loginout">注销</string><string name="sweep_title">扫一扫</string><string name="button_ok"> OK</string><string name="search_forwards">向前搜索</string><string name="dismiss">解除</string><string name="menu_item_sort">排序</string><string name="xlistview_nomore_loading">刷新完成</string><string name="select_text">选择文本</string><string name="version_the_new">发现新版本: %1$s</string><string name="title_music">音乐列表</string><string name="category_zip">压缩包</string><string name="network_not_connected">网络连接失败，请检查网络设置</string><string name="account_cache">%1$s</string><string name="multi_select_title">已选择
+ <ns1:g id="number">%1$s</ns1:g>         个
+</string><string name="title">提示</string><string name="menu_item_sort_name">名称</string><string name="user_account">账号</string><string name="io_exception_error">文件流异常</string><string name="scan_qr_code_error">二维码扫描异常</string><string name="load_more">加载更多</string><string name="directory_lable">目录</string><string name="operation_cancel_selectall">取消全选</string><string name="operation_rename">重命名</string><string name="empty_scaning_again">没有数据，请重新扫码登录</string><string name="account_version">%1$s</string><string name="print_failed">未能打印</string><string name="msg_camera_framework_bug">对不起，您没有开启本应用的相机权限，请您到手机设置里，找到本应用的权限管理，开启相机权限即可。</string><string name="dialog_type_image">图像</string><string name="directory_bookmark_lable">目录</string><string name="total_page">共1页</string><string name="user_clear_cache">一键清空</string><string name="net_disconnected">对不起.您网络未连接。</string><string name="cannot_open_buffer">无法打开缓冲器</string><string name="login_account">账号:</string><string name="searching_">正在搜索…</string><string name="qrcode_overdue">对不起,您的二维码已经过期，请扫描最新二维码。</string><string name="msg_login_pwd_null">密码不能为空</string><string name="sz_copyright">Copyright©2014</string><string name="login_rememember_me">    记住我，自动登录</string><string name="title_video">视频列表</string><string name="bookmarks_er_because_unkey">没有阅读权限,无法添加书签。</string><string name="outline_title">目录</string><string name="login_password">密码:</string><string name="start_time_format">00:00</string><string name="file_size">%d 字节</string><string name="book_count">%1$s本图书</string><string name="the_new_version">最新版本：%1$s</string><string name="look_meeting_history">查看历史会议</string><string name="qrcode_prompt">请将二维码置于取景框内扫描</string><string name="msg_cipher_error">解密文件异常</string><string name="bookmark_lable">书签</string><string name="tab_local">本地</string><string name="yes">是</string><string name="new_folder_name">新建文件夹</string><string name="file_info_canread">可读:</string><string name="confirm">确定</string><string name="play_single_cycle">单曲循环</string><string name="toggle_links">高亮并启用墨迹</string><string name="have_not_outline">此文件没有目录~</string><string name="need_password">需要密码!</string><string name="xlistview_header_hint_normal">下拉可以刷新</string><string name="regist_device_fail">注册设备失败</string><string name="please_waiting_now_parser">正在解析文件,请您稍候!</string><string name="category_other">其它</string><string name="register_setnewpassword">设置新密码</string><string name="xlistview_header_last_time">更新时间：</string><string name="xml_dialog_delete_positive">确定</string><string name="app_run_code_error">应用程序运行时异常</string><string name="load_ing">正在加载.</string><string name="regist">注册</string><string name="fail_to_rename">重命名失败失败，可能使用该名称的文件或文件夹已存在。</string><string name="msg_file_not_find">文件没有找到</string><string name="login_title">绥知登录</string><string name="load_data_null">没有加载到数据</string><string name="app_error_message">很抱歉，应用程序出现错误，即将退出。\n请提交错误报告，我们会尽快修复这个问题！</string><string name="download_underway">下载中, 请稍候…</string><string name="search">搜索</string><string name="scaning_er_code">扫描二维码</string><string name="video_format">格式：</string><string name="category_document">文档</string><string name="not_supported">不被支持</string><string name="scanning_result">扫描结果</string><string name="app_menu_surelogout">确定退出程序吗？</string><string name="copy">复制</string><string name="menu_setting">设置</string><string name="update_app_later">以后再说</string></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values\styles.xml" qualifiers=""><style name="music_animstyle">
+        <item name="android:windowExitAnimation">@anim/d_close</item>
+    </style><style name="InformationTextStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:drawablePadding">5dip</item>
+    </style><style name="lrc_bottom">
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:scaleType">fitXY</item>
+    </style><style name="main_menu_animstyle">
+        <item name="android:windowEnterAnimation">@anim/d_open</item>
+        <item name="android:windowExitAnimation">@anim/d_close</item>
+    </style><style name="LoadBgDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="dialogWindowTitle">
+        <item name="android:textAppearance">@style/textAppearanceDialogWindowTitle</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style><style name="marquee">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:singleLine">true</item>
+    </style><style name="CategoryButtonTextStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#111111</item>
+    </style><style name="NetDisk.AppTitleBar.Red" parent="@style/NetDisk.AppTitleBar">
+        <item name="android:shadowColor">#88c12b20</item>
+    </style><style name="radioButton_style">
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:lines">1</item>
+        <item name="android:textColor">#f4a460</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:background">#00000000</item>
+    </style><style name="NetDisk.TextAppearance">
+        <item name="android:textColor">@color/text_default</item>
+    </style><style name="NetDiskPlayerPlugin.TextAppearance.Middle" parent="@style/NetDiskPlayerPlugin.TextAppearance">
+        <item name="android:textSize">15.0dip</item>
+    </style><style name="transparentFrameWindowStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style><style name="NetDisk"/><style name="NetDisk.Unified.AmazingLarge.White" parent="@style/NetDisk.Unified.AmazingLarge">
+        <item name="android:textColor">@color/color_white</item>
+    </style><style name="Translucent">
+        <item name="android:windowEnterAnimation">@anim/translucent_zoom_out</item>
+        <item name="android:windowExitAnimation">@anim/translucent_zoom_exit</item>
+    </style><style name="CategoryButtonStyle">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style><style name="NetDisk.TextAppearance.Huge.TitleWhite" parent="@style/NetDisk.TextAppearance.Huge">
+        <item name="android:textColor">@color/color_white</item>
+    </style><style name="CategoryButtonCountTextStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#A6A6A6</item>
+    </style><style name="btn_dialog">
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:paddingLeft">25dp</item>
+        <item name="android:paddingRight">25dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:background">@drawable/btn_dialog</item>
+    </style><style name="NetDiskPlayerPlugin.TextAppearance" parent="@style/NetDiskPlayerPlugin">
+        <item name="android:textColor">@color/text_default_color</item>
+    </style><style name="NetDisk.TextAppearance.Content.BlackWhiteReverse" parent="@style/NetDisk.TextAppearance.Content">
+        <item name="android:textColor">@drawable/black_white_reverse_drawable</item>
+    </style><style name="detail_head_title">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#ffffffff</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style><style name="NetDisk.AppTitleBar.Blue" parent="@style/NetDisk.AppTitleBar">
+        <item name="android:shadowColor">#d82074d4</item>
+    </style><style name="NetDisk.Unified" parent="@style/NetDisk"/><style name="CategoryItem">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style><style name="NetDisk.TextAppearance.Content.White" parent="@style/NetDisk.TextAppearance.Content">
+        <item name="android:textColor">@color/white</item>
+    </style><style name="ProgressBarStyle" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:minHeight">5dip</item>
+        <item name="android:maxHeight">5dip</item>
+    </style><style name="Yi.TextAppearance.Big" parent="@style/Yi.TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style><style name="NetDisk.TextAppearance.Content" parent="@style/NetDisk.TextAppearance">
+        <item name="android:textSize">16.0dip</item>
+    </style><style name="FileViewToolbarButtonStytle">
+        <item name="android:padding">10dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="channel_type_style">
+        <item name="android:layout_margin">4dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:clickable">true</item>
+    </style><style name="NetDisk.Unified.AmazingLarge" parent="@style/NetDisk.Unified">
+        <item name="android:textSize">@dimen/text_size_amazing_large</item>
+    </style><style name="NetDiskMainTab">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/tabbar_background</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/main_tab_background_height</item>
+    </style><style name="Yi.TextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColorHighlight">#ffbfddf3</item>
+    </style><style name="MediaController_Button">
+        <item name="android:background">@drawable/mediacontroller_btn_bg</item>
+    </style><style name="btn_custom_style">
+        <item name="android:layout_width">48dip</item>
+        <item name="android:layout_height">48dip</item>
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:background">?android:listChoiceBackgroundIndicator</item>
+    </style><style name="main_title">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/main_title_orange</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:focusable">false</item>
+    </style><style name="CategoryItemIcon">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="NetDisk.TextAppearance.Middle" parent="@style/NetDisk.TextAppearance">
+        <item name="android:textSize">15.0dip</item>
+    </style><style name="textAppearanceDialogWindowTitle">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">normal</item>
+    </style><style name="MediaController_Text">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="CategoryLegendStyleLand">
+        <item name="android:layout_height">0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">left</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:layout_marginLeft">2dip</item>
+    </style><style name="animationDialog">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style><style name="InformationItemTitleStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">60dip</item>
+        <item name="android:gravity">right</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">14sp</item>
+    </style><style name="PopupWindow_info_anim">
+        <item name="android:windowEnterAnimation">@anim/pw_info_show</item>
+        <item name="android:windowExitAnimation">@anim/pw_info_dismiss</item>
+    </style><style name="NetDiskPlayerPlugin.Theme" parent="@style/NetDiskPlayerPlugin"/><style name="NotificationTitle">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="AnimationFade">
+        <item name="android:windowEnterAnimation">@anim/trans_x_in</item>
+        <item name="android:windowExitAnimation">@anim/trans_x_out</item>
+    </style><style name="CategoryItemCount">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="NetDisk.TextAppearance.Huge" parent="@style/NetDisk.TextAppearance">
+        <item name="android:textSize">20.0dip</item>
+    </style><style name="NetDisk.TextAppearance.Middle.TitleWhite" parent="@style/NetDisk.TextAppearance.Middle">
+        <item name="android:textColor">@color/color_white</item>
+    </style><style name="InformationItemContentStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginLeft">5dip</item>
+    </style><style name="NotificationContent">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style><style name="LoadDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style><style name="CategoryLegendStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">left</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:layout_marginLeft">2dip</item>
+    </style><style name="MyDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        
+        
+    </style><style name="popwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style><style name="CategoryButtonIconStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginBottom">3dp</item>
+    </style><style name="NetDisk.MainTab.Button" parent="@style/NetDiskMainTab">
+        <item name="android:textSize">@dimen/text_size_smaller</item>
+        <item name="android:textColor">@drawable/blue_tabbargray_reverse_drawable</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">3.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">false</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:background">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        
+    </style><style name="ActivityAnimationStyle">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_scale_up_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_scale_up_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_scale_down_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_scale_down_exit</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style><style name="NetDisk.TextAppearance.Large" parent="@style/NetDisk.TextAppearance">
+        <item name="android:textSize">18.0dip</item>
+    </style><style name="BaiduNetDiskDialogBackgroundstyle">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:padding">20.0dip</item>
+        <item name="android:layout_width">320.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">14.0dip</item>
+        <item name="android:layout_marginRight">14.0dip</item>
+        <item name="android:minWidth">320.0dip</item>
+    </style><style name="NetDisk.TextAppearance.Large.White" parent="@style/NetDisk.TextAppearance.Large">
+        <item name="android:textColor">@color/white</item>
+    </style><style name="AnimationThemeNoTitleBar" parent="AppBaseTheme">
+        <item name="android:windowAnimationStyle">@style/ActivityAnimationStyle</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="TVAnimDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style><style name="main_tab_but_linear">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:clickable">true</item>
+    </style><style name="CategoryItemIconName">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+    </style><style name="CustomDialog">
+
+        
+        
+        <item name="android:windowBackground">@color/translucence</item>
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/dialogWindowTitle</item>
+        <item name="android:windowAnimationStyle">@style/animationDialog</item>
+        <item name="android:popupBackground">@color/translucence</item>
+        
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style><style name="InfoPanel_Container">
+        <item name="android:background">@color/mediacontroller_bg</item>
+    </style><style mce_bogus="1" name="TVAnimDialogWindowAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_tv_on</item>
+        <item name="android:windowExitAnimation">@anim/dialog_tv_off</item>
+    </style><style name="NetDiskPlayerPlugin"/><style name="MediaController_Container">
+        <item name="android:background">@color/mediacontroller_bg</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:paddingBottom">8dip</item>
+        <item name="android:paddingLeft">8dip</item>
+        <item name="android:paddingRight">8dip</item>
+    </style><style name="Theme.HalfTranslucent" parent="@android:style/Theme.Translucent">
+        <item name="android:windowBackground">@color/half_transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/Translucent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="NetDisk.TextAppearance.Content.loginOtherAuth" parent="@style/NetDisk.TextAppearance.Content">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@color/login_other_auth</item>
+    </style><style name="tab_center">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop">5.0dp</item>
+        <item name="android:paddingBottom">1.0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:drawablePadding">2.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style><style name="MyActionBar">
+        <item name="android:background">#64000000</item>
+    </style><style name="NetDisk.AppTitleBar" parent="@style/NetDisk.TextAppearance.Huge.TitleWhite">
+        <item name="android:shadowDx">2.0</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style><style name="NetDisk.Unified.Small" parent="@style/NetDisk.Unified">
+        <item name="android:textSize">@dimen/text_size_small</item>
+    </style><style name="Yi.ListItem.TextAppearance.Large" parent="@style/Yi.TextAppearance.Big">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@drawable/yi_list_item_text_color_selector</item>
+    </style><style name="NetDisk.TextAppearance.Middle.White" parent="@style/NetDisk.TextAppearance.Middle">
+        <item name="android:textColor">@color/white</item>
+    </style><style name="NetDisk.Unified.Small.White" parent="@style/NetDisk.Unified.Small">
+        <item name="android:textColor">@color/color_white</item>
+    </style><style name="CategoryRoot">
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_gravity">center</item>
+    </style><style name="NetDiskPlayerPlugin.TextAppearance.Content" parent="@style/NetDiskPlayerPlugin.TextAppearance">
+        <item name="android:textSize">17.0dip</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="InformationItemStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:paddingLeft">5dip</item>
+        <item name="android:layout_marginBottom">5dip</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+    </style></file><file path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file name="preferences" path="H:\studio20161115\meeting_workspase\Meeting\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/></source><source path="H:\studio20161115\meeting_workspase\Meeting\app\build\generated\res\rs\debug"/><source path="H:\studio20161115\meeting_workspase\Meeting\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="H:\studio20161115\meeting_workspase\Meeting\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ViewGroup"><attr format="boolean" name="animateLayoutChanges"/><attr format="boolean" name="clipChildren"/><attr format="boolean" name="clipToPadding"/><attr format="reference" name="layoutAnimation"/><attr format="boolean" name="animationCache"/><attr name="persistentDrawingCache">
+
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="animation" value="0x1"/>
+            
+            <flag name="scrolling" value="0x2"/>
+            
+            <flag name="all" value="0x3"/>
+        </attr><attr format="boolean" name="alwaysDrawnWithCache"/><attr format="boolean" name="addStatesFromChildren"/><attr name="descendantFocusability">
+
+            
+            <enum name="beforeDescendants" value="0"/>
+            
+            <enum name="afterDescendants" value="1"/>
+            
+            <enum name="blocksDescendants" value="2"/>
+        </attr><attr format="boolean" name="splitMotionEvents"/></declare-styleable><declare-styleable name="WaveView"><attr format="color" name="above_wave_color"/><attr format="color" name="blow_wave_color"/><attr format="integer" name="progress"/><attr format="enum" name="wave_length">
+            <enum name="large" value="1"/>
+            <enum name="middle" value="2"/>
+            <enum name="little" value="3"/>
+        </attr><attr format="enum" name="wave_height">
+            <enum name="large" value="1"/>
+            <enum name="middle" value="2"/>
+            <enum name="little" value="3"/>
+        </attr><attr format="enum" name="wave_hz">
+            <enum name="fast" value="1"/>
+            <enum name="normal" value="2"/>
+            <enum name="slow" value="3"/>
+        </attr></declare-styleable><declare-styleable name="AbsListView"><attr format="color|reference" name="listSelector"/><attr format="boolean" name="drawSelectorOnTop"/><attr format="boolean" name="stackFromBottom"/><attr format="boolean" name="scrollingCache"/><attr format="boolean" name="textFilterEnabled"/><attr name="transcriptMode">
+
+            
+            <enum name="disabled" value="0"/>
+            
+            <enum name="normal" value="1"/>
+            
+            <enum name="alwaysScroll" value="2"/>
+        </attr><attr format="color" name="cacheColorHint"/><attr format="boolean" name="fastScrollEnabled"/><attr format="boolean" name="smoothScrollbar"/><attr name="choiceMode">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="singleChoice" value="1"/>
+            
+            <enum name="multipleChoice" value="2"/>
+            
+            <enum name="multipleChoiceModal" value="3"/>
+        </attr><attr format="boolean" name="fastScrollAlwaysVisible"/></declare-styleable><declare-styleable name="Themes"><attr format="reference" name="waveViewStyle"/></declare-styleable><declare-styleable name="View"><attr format="reference" name="id"/><attr format="string" name="tag"/><attr format="dimension" name="scrollX"/><attr format="dimension" name="scrollY"/><attr format="dimension" name="padding"/><attr format="dimension" name="paddingLeft"/><attr format="dimension" name="paddingTop"/><attr format="dimension" name="paddingRight"/><attr format="dimension" name="paddingBottom"/><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr format="boolean" name="focusable"/><attr format="boolean" name="focusableInTouchMode"/><attr name="visibility">
+
+            
+            <enum name="visible" value="0"/>
+            
+            <enum name="invisible" value="1"/>
+            
+            <enum name="gone" value="2"/>
+        </attr><attr format="boolean" name="fitsSystemWindows"/><attr name="scrollbars">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00000100"/>
+            
+            <flag name="vertical" value="0x00000200"/>
+        </attr><attr name="scrollbarStyle">
+
+            
+            <enum name="insideOverlay" value="0x0"/>
+            
+            <enum name="insideInset" value="0x01000000"/>
+            
+            <enum name="outsideOverlay" value="0x02000000"/>
+            
+            <enum name="outsideInset" value="0x03000000"/>
+        </attr><attr format="boolean" name="isScrollContainer"/><attr format="boolean" name="fadeScrollbars"/><attr format="integer" name="scrollbarFadeDuration"/><attr format="integer" name="scrollbarDefaultDelayBeforeFade"/><attr format="dimension" name="scrollbarSize"/><attr format="reference" name="scrollbarThumbHorizontal"/><attr format="reference" name="scrollbarThumbVertical"/><attr format="reference" name="scrollbarTrackHorizontal"/><attr format="reference" name="scrollbarTrackVertical"/><attr format="boolean" name="scrollbarAlwaysDrawHorizontalTrack"/><attr format="boolean" name="scrollbarAlwaysDrawVerticalTrack"/><attr name="fadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr><attr name="requiresFadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr><attr format="dimension" name="fadingEdgeLength"/><attr format="reference" name="nextFocusLeft"/><attr format="reference" name="nextFocusRight"/><attr format="reference" name="nextFocusUp"/><attr format="reference" name="nextFocusDown"/><attr format="reference" name="nextFocusForward"/><attr format="boolean" name="clickable"/><attr format="boolean" name="longClickable"/><attr format="boolean" name="saveEnabled"/><attr format="boolean" name="filterTouchesWhenObscured"/><attr name="drawingCacheQuality">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="low" value="1"/>
+            
+            <enum name="high" value="2"/>
+        </attr><attr format="boolean" name="keepScreenOn"/><attr format="boolean" name="duplicateParentState"/><attr format="dimension" name="minHeight"/><attr format="dimension" name="minWidth"/><attr format="boolean" name="soundEffectsEnabled"/><attr format="boolean" name="hapticFeedbackEnabled"/><attr format="string" localization="suggested" name="contentDescription"/><attr format="string" name="onClick"/><attr name="overScrollMode">
+
+            
+            <enum name="always" value="0"/>
+            
+            <enum name="ifContentScrolls" value="1"/>
+            
+            <enum name="never" value="2"/>
+        </attr><attr format="float" name="alpha"/><attr format="dimension" name="translationX"/><attr format="dimension" name="translationY"/><attr format="dimension" name="transformPivotX"/><attr format="dimension" name="transformPivotY"/><attr format="float" name="rotation"/><attr format="float" name="rotationX"/><attr format="float" name="rotationY"/><attr format="float" name="scaleX"/><attr format="float" name="scaleY"/><attr name="verticalScrollbarPosition">
+
+            
+            <enum name="defaultPosition" value="0"/>
+            
+            <enum name="left" value="1"/>
+            
+            <enum name="right" value="2"/>
+        </attr><attr name="layerType">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="software" value="1"/>
+            
+            <enum name="hardware" value="2"/>
+        </attr><attr name="layoutDirection">
+
+            
+            <enum name="ltr" value="0"/>
+            
+            <enum name="rtl" value="1"/>
+            
+            <enum name="inherit" value="2"/>
+            
+            <enum name="locale" value="3"/>
+        </attr><attr format="integer" name="textDirection">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="firstStrong" value="1"/>
+            
+            <enum name="anyRtl" value="2"/>
+            
+            <enum name="ltr" value="3"/>
+            
+            <enum name="rtl" value="4"/>
+            
+            <enum name="locale" value="5"/>
+        </attr><attr format="integer" name="textAlignment">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="gravity" value="1"/>
+            
+            <enum name="textStart" value="2"/>
+            
+            <enum name="textEnd" value="3"/>
+            
+            <enum name="center" value="4"/>
+            
+            <enum name="viewStart" value="5"/>
+            
+            <enum name="viewEnd" value="6"/>
+        </attr><attr format="integer" name="importantForAccessibility">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr><attr format="integer" name="accessibilityFocusable">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr></declare-styleable><declare-styleable name="PinterestLikeAdapterView"><attr format="integer" name="plaColumnNumber"/><attr format="integer" name="plaLandscapeColumnNumber"/><attr format="dimension" name="plaColumnPaddingLeft"/><attr format="dimension" name="plaColumnPaddingRight"/></declare-styleable><declare-styleable name="ListView"><attr format="dimension" name="dividerHeight"/><attr format="boolean" name="headerDividersEnabled"/><attr format="boolean" name="footerDividersEnabled"/><attr format="reference|color" name="overScrollHeader"/><attr format="reference|color" name="overScrollFooter"/></declare-styleable><declare-styleable name="FlatButton"><attr format="boolean" name="shadowEnabled"/><attr format="color" name="buttonColor"/><attr format="color" name="shadowColor"/><attr format="dimension" name="shadowHeight"/><attr format="dimension" name="cornerRadius"/></declare-styleable><declare-styleable name="AVLoadingIndicatorView"><attr name="indicator">
+            <flag name="BallPulse" value="0"/>
+            <flag name="BallGridPulse" value="1"/>
+            <flag name="BallClipRotate" value="2"/>
+            <flag name="BallClipRotatePulse" value="3"/>
+            <flag name="SquareSpin" value="4"/>
+            <flag name="BallClipRotateMultiple" value="5"/>
+            <flag name="BallPulseRise" value="6"/>
+            <flag name="BallRotate" value="7"/>
+            <flag name="CubeTransition" value="8"/>
+            <flag name="BallZigZag" value="9"/>
+            <flag name="BallZigZagDeflect" value="10"/>
+            <flag name="BallTrianglePath" value="11"/>
+            <flag name="BallScale" value="12"/>
+            <flag name="LineScale" value="13"/>
+            <flag name="LineScaleParty" value="14"/>
+            <flag name="BallScaleMultiple" value="15"/>
+            <flag name="BallPulseSync" value="16"/>
+            <flag name="BallBeat" value="17"/>
+            <flag name="LineScalePulseOut" value="18"/>
+            <flag name="LineScalePulseOutRapid" value="19"/>
+            <flag name="BallScaleRipple" value="20"/>
+            <flag name="BallScaleRippleMultiple" value="21"/>
+            <flag name="BallSpinFadeLoader" value="22"/>
+            <flag name="LineSpinFadeLoader" value="23"/>
+            <flag name="TriangleSkewSpin" value="24"/>
+            <flag name="Pacman" value="25"/>
+            <flag name="BallGridBeat" value="26"/>
+            <flag name="SemiCircleSpin" value="27"/>
+        </attr><attr format="color" name="indicator_color"/></declare-styleable><declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable><declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable><declare-styleable name="FlingGalleryView"><attr format="integer" name="defaultScreen"/></declare-styleable><declare-styleable name="RoundProgressBar"><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidth"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="integer" name="max"/><attr format="boolean" name="textIsDisplayable"/><attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

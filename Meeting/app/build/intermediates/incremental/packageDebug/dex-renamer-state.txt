@@ -1,0 +1,7 @@
+#Tue Nov 22 14:15:13 CST 2016
+base.0=H\:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8f11868fe3f80e9f3b132611d85ef59156a5290c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c33c85b6ba743d7fb102d62d12a71a7424263a50\\classes.dex
+base.1=H\:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c33c85b6ba743d7fb102d62d12a71a7424263a50
+file.0=H\:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8f11868fe3f80e9f3b132611d85ef59156a5290c\\classes.dex

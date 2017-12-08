@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_bar_height"
+    android:background="@color/touming" >
+
+    <cn.com.pyc.drm.widget.HighlightImageView
+        android:id="@+id/back"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:gravity="center_vertical"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_takeback" />
+
+    <View
+        android:layout_width="1.0dip"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/back"
+        android:background="@drawable/title_line" />
+
+    <cn.com.pyc.drm.widget.MarqueeTextView
+        android:id="@+id/focused_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="1.0dp"
+        android:layout_marginRight="1.0dp"
+        android:layout_toLeftOf="@+id/Close"
+        android:layout_toRightOf="@+id/back"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="title"
+        android:textColor="@color/ivory"
+        android:textSize="16.0sp" />
+
+    <View
+        android:layout_width="1.0dip"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@+id/Close"
+        android:background="@drawable/title_line" />
+
+    <TextView
+        android:id="@+id/Close"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/item_light_bg_selector"
+        android:drawablePadding="5.0dip"
+        android:gravity="center_vertical"
+        android:paddingLeft="15.0dip"
+        android:paddingRight="15.0dip"
+        android:text="@string/close"
+        android:textColor="#EEFFFFFF"
+        android:textSize="15.0dip" />
+
+</RelativeLayout>

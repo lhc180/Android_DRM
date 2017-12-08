@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wang.avi.AVLoadingIndicatorView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:avloading="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/listview_header_avloading"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    avloading:maxHeight="@dimen/avloading_size"
+    avloading:maxWidth="@dimen/avloading_size"
+    avloading:minHeight="@dimen/avloading_size"
+    avloading:minWidth="@dimen/avloading_size"/>
+
+    <!--avloading:indicatorColor="@color/title_bg_color"
+        avloading:indicatorName="BallSpinFadeLoaderIndicator"-->

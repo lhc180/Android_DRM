@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.2'
+    defaultConfig {
+        applicationId "cn.com.meeting.drm"
+        minSdkVersion 19
+        targetSdkVersion 21
+        versionCode  24
+        versionName "1.2.2"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true          //混淆
+            zipAlignEnabled true        //zipAlign优化
+            shrinkResources true        //移除无用的resource文件
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //签名文件可配置，命令行打包时很方便
+        }
+        debug {
+            minifyEnabled false
+            zipAlignEnabled true
+            shrinkResources true
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('libs/android-core-3.1.1-SNAPSHOT.jar')
+    compile files('libs/bcprov-jdk15-143.jar')
+    compile files('libs/commons-net-3.3.jar')
+    compile files('libs/core-3.1.1-SNAPSHOT.jar')
+    compile files('libs/eventbus-2.4.0.jar')
+    compile files('libs/fastjson-1.1.26.jar')
+    compile files('libs/httpmime-4.1.1.jar')
+    compile files('libs/jpush-sdk-release1.8.0.jar')
+    compile files('libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/rxandroid-1.1.0.jar')
+    compile files('libs/rxjava-1.1.0.jar')
+    compile files('libs/universal-image-loader-1.9.4-src.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile project(':recyclerview')
+}

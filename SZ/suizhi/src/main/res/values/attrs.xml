@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FlingGalleryView">
+        <attr name="defaultScreen" format="integer"/>
+    </declare-styleable>
+
+    <!--自定义圆形进度条-->
+    <declare-styleable name="RoundProgressBar">
+        <attr name="roundColor" format="color"/>
+        <attr name="roundProgressColor" format="color"/>
+        <attr name="roundWidth" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textDisplayable" format="boolean"/>
+        <attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <!--自定义按钮-->
+    <declare-styleable name="FlatButton">
+        <attr name="shadowEnabled" format="boolean"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="shadowColor" format="color"/>
+        <attr name="shadowHeight" format="dimension"/>
+        <attr name="cornerRadius" format="dimension"/>
+    </declare-styleable>
+
+    <!--自定义波浪效果-->
+    <declare-styleable name="WaveView">
+        <attr name="above_wave_color" format="color"/>
+        <attr name="blow_wave_color" format="color"/>
+        <attr name="progress" format="integer"/>
+        <attr name="wave_length" format="enum">
+            <enum name="large" value="1"/>
+            <enum name="middle" value="2"/>
+            <enum name="little" value="3"/>
+        </attr>
+        <attr name="wave_height" format="enum">
+            <enum name="large" value="1"/>
+            <enum name="middle" value="2"/>
+            <enum name="little" value="3"/>
+        </attr>
+        <attr name="wave_hz" format="enum">
+            <enum name="fast" value="1"/>
+            <enum name="normal" value="2"/>
+            <enum name="slow" value="3"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="Themes">
+        <attr name="waveViewStyle" format="reference"/>
+    </declare-styleable>
+
+    <!--SmoothCheckBox加载框自定义样式-->
+    <declare-styleable name="SmoothCheckBox">
+        <attr name="scb_duration" format="integer" />
+        <attr name="scb_stroke_width" format="dimension" />
+        <attr name="scb_color_tick" format="color" />
+        <attr name="scb_color_checked" format="color" />
+        <attr name="scb_color_unchecked" format="color" />
+        <attr name="scb_color_unchecked_stroke" format="color" />
+    </declare-styleable>
+
+    <!--自定义菜单点样式-->
+    <declare-styleable name="RoundCornerIndicaor">
+        <!-- width of indicators -->
+        <attr name="rci_width" format="dimension"/>
+        <!-- height of indicators -->
+        <attr name="rci_height" format="dimension"/>
+        <!-- the spacing between the indicator. -->
+        <attr name="rci_gap" format="dimension"/>
+        <!-- cornerRadius of the indicator. -->
+        <attr name="rci_cornerRadius" format="dimension"/>
+        <!-- width of the stroke used to draw the indicators. -->
+        <attr name="rci_strokeWidth" format="dimension"/>
+        <!-- color of the indicator that represents the current page. -->
+        <attr name="rci_selectColor" format="color"/>
+        <!-- color of the indicator that represents pages. -->
+        <attr name="rci_unselectColor" format="color"/>
+        <!-- color of the stroke used to draw the indicators. -->
+        <attr name="rci_strokeColor" format="color"/>
+        <!-- Whether or not the selected indicator snaps to the indicators. -->
+        <attr name="rci_isSnap" format="boolean"/>
+    </declare-styleable>
+
+    <!--SwipeToLoadLayout-->
+    <declare-styleable name="SwipeToLoadLayout">
+        <attr name="refresh_enabled" format="boolean"/>
+        <attr name="load_more_enabled" format="boolean"/>
+        <attr name="swipe_style" format="enum">
+            <enum name="classic" value="0"/>
+            <enum name="above" value="1"/>
+            <enum name="blew" value="2"/>
+            <enum name="scale" value="3"/>
+        </attr>
+        <attr name="drag_ratio" format="float"/>
+        <attr name="refresh_trigger_offset" format="dimension"/>
+        <attr name="load_more_trigger_offset" format="dimension"/>
+        <attr name="refresh_final_drag_offset" format="dimension"/>
+        <attr name="load_more_final_drag_offset" format="dimension"/>
+        <attr name="swiping_to_refresh_to_default_scrolling_duration" format="integer"/>
+        <attr name="release_to_refreshing_scrolling_duration" format="integer"/>
+        <attr name="refresh_complete_delay_duration" format="integer"/>
+        <attr name="refresh_complete_to_default_scrolling_duration" format="integer"/>
+        <attr name="default_to_refreshing_scrolling_duration" format="integer"/>
+        <attr name="swiping_to_load_more_to_default_scrolling_duration" format="integer"/>
+        <attr name="release_to_loading_more_scrolling_duration" format="integer"/>
+        <attr name="load_more_complete_delay_duration" format="integer"/>
+        <attr name="load_more_complete_to_default_scrolling_duration" format="integer"/>
+        <attr name="default_to_loading_more_scrolling_duration" format="integer"/>
+    </declare-styleable>
+
+    <!--自定义闪烁字体View-->
+    <declare-styleable name="SplashTextView">
+        <attr name="color_type" format="integer"/>
+    </declare-styleable>
+
+    <!--自定义下拉刷新-->
+    <declare-styleable name="PullListView">
+        <attr name="getMoreType">
+            <enum name="auto" value="0"/>
+            <enum name="click" value="1"/>
+        </attr>
+        <attr name="addPullHeaderByUser" format="boolean"/>
+    </declare-styleable>
+
+    <!--自定义左滑-->
+    <declare-styleable name="SwipeLayout">
+        <attr name="drag_edge" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
+        <attr name="show_mode" format="enum">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <!-- 添加declare-styleable请写明注释，并规范命名 -->
+    <!-- 添加declare-styleable请写明注释，并规范命名 -->
+    <!-- 添加declare-styleable请写明注释，并规范命名 -->
+
+    <!--带提示框的SeeKBar-->
+    <declare-styleable name="SeekBarFloatView">
+        <attr name="sbf_textSize" format="dimension"/>
+        <attr name="sbf_textColor" format="color"/>
+        <attr name="sbf_textBackground" format="reference"/>
+    </declare-styleable>
+
+    <!-- 歌词相关 -->
+    <declare-styleable name="LrcView">
+        <attr name="lrcTextSize" format="dimension"/>
+        <attr name="lrcDividerHeight" format="dimension"/>
+        <attr name="lrcNormalTextColor" format="reference|color"/>
+        <attr name="lrcCurrentTextColor" format="reference|color"/>
+        <attr name="lrcAnimationDuration" format="integer"/>
+        <attr name="lrcLabel" format="string"/>
+        <attr name="lrcPadding" format="dimension"/>
+    </declare-styleable>
+
+    <!-- 图标下绘制文字 -->
+    <declare-styleable name="ChangeColorIconView">
+        <attr name="cciv_iconImg" format="reference"/>
+        <attr name="cciv_color" format="color"/>
+        <attr name="cciv_text" format="string"/>
+        <attr name="cciv_textSize" format="dimension"/>
+    </declare-styleable>
+
+</resources>

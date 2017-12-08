@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:gravity="center_vertical" >
+
+    <ImageView
+        android:id="@+id/statusbar_artist_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launchers" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@id/statusbar_artist_image"
+        android:layout_alignTop="@id/statusbar_artist_image"
+        android:layout_marginLeft="3dp"
+        android:layout_toRightOf="@id/statusbar_artist_image"
+        android:padding="5dp" >
+
+        <ImageView
+            android:id="@+id/statusbar_content_close_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:scaleType="centerInside"
+            android:padding="3dp"
+            android:src="@drawable/ic_bar_exit" />
+
+        <TextView
+            android:id="@+id/statusbar_track_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/statusbar_content_close_image"
+            android:ellipsize="end"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:text="DRM"
+            android:textColor="?android:textColorPrimary"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/statusbar_track_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/statusbar_track_name"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="3dp"
+            android:text="正在播放"
+            android:textColor="?android:textColorSecondary"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

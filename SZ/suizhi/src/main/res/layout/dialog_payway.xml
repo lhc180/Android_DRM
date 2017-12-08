@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/round_smoke_background">
+
+    <TextView
+        android:id="@+id/payway_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/pay_select_way"
+        android:textColor="#de1B1B1B"
+        android:textSize="18.0sp"/>
+
+    <RelativeLayout
+        android:id="@+id/payway_way"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/payway_title"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20.0dp"
+        android:layout_marginRight="20.0dp"
+        android:minHeight="85.0dp">
+
+        <TextView
+            android:id="@+id/payway_wechat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20.0dp"
+            android:padding="10dp"
+            android:text="@string/pay_we_chat"
+            android:textColor="@color/selector_payname_textcolor"
+            android:textSize="22.0sp"/>
+
+
+        <TextView
+            android:id="@+id/payway_alipay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20.0dp"
+            android:padding="10dp"
+            android:text="@string/pay_ali_pay"
+            android:textColor="@color/selector_payname_textcolor"
+            android:textSize="22.0sp"/>
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="15.0dp"
+        android:background="@color/transparent"
+        android:layout_below="@id/payway_way"/>
+
+
+</RelativeLayout>

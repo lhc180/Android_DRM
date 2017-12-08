@@ -1,0 +1,4 @@
+#Wed Jan 18 15:14:18 CST 2017
+base.0=H\:\\studio20161115\\meeting_work\\Meeting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=H\:\\studio20161115\\meeting_work\\Meeting\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

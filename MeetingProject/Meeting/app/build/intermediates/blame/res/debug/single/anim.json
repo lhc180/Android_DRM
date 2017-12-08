@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_enter.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\activity_scale_up_enter.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\accelerate_interpolator.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\accelerate_interpolator.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_x_out.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\trans_x_out.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_trans_in.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\alpha_trans_in.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_scale.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\fade_out_scale.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_on.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\dialog_tv_on.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translucent_zoom_out.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\translucent_zoom_out.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translucent_zoom_exit.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\translucent_zoom_exit.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\info_alpha.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\info_alpha.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\d_open.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\d_open.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_anim.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\fade_in_anim.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_interpolator.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\decelerate_interpolator.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_exit.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\activity_scale_down_exit.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_alpha_anim.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\slide_top_alpha_anim.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pw_info_show.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\pw_info_show.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_anim.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\fade_out_anim.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_off.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\dialog_tv_off.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\list_item_anim_layout.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\list_item_anim_layout.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_scale.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\fade_in_scale.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_exit.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\activity_scale_up_exit.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_music_open.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\activity_music_open.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_music_close.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\activity_music_close.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\d_close.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\d_close.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_enter.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\activity_scale_down_enter.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pw_info_dismiss.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\pw_info_dismiss.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_x_in.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\anim\\trans_x_in.xml"
+    }
+]

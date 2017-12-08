@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:id="@+id/un_net_layout"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:background="@color/yellow_warning"
+        android:visibility="gone" >
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/un_image_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:src="@drawable/ic_clear_action" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="6.0dp"
+            android:layout_toLeftOf="@+id/un_image_arrow"
+            android:layout_toRightOf="@id/un_image_close"
+            android:background="@color/yellow_warning"
+            android:gravity="center"
+            android:text="@string/net_unavailable"
+            android:textColor="#999999"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/un_image_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="6.0dp"
+            android:src="@drawable/ic_arrow_right" />
+    </RelativeLayout>
+
+</merge>

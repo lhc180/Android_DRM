@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_bar_height"
+    android:background="@color/title_bar_bg_color" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="13dp" >
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/iv_seting"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_image_userinfo" />
+
+        <ImageView
+            android:id="@+id/iv_info_dot"
+            android:layout_width="8.0dp"
+            android:layout_height="8.0dp"
+            android:layout_marginLeft="-8dp"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/iv_seting"
+            android:background="@drawable/ic_brompt_dot_red"
+            android:scaleType="centerCrop"
+            android:visibility="gone"
+        />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="1.0dip"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/back"
+        android:background="@drawable/title_line"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/title_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@color/ivory"
+        android:textSize="16.0sp" />
+
+    <cn.com.pyc.drm.widget.HighlightImageView
+        android:id="@+id/opt_img"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="12dp"
+        android:padding="4dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/icon_add1"
+        android:visibility="gone" />
+
+</RelativeLayout>

@@ -1,0 +1,100 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="260dp"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40.0dip"
+        android:background="@color/title_bar_bg_color" >
+
+        <TextView
+            android:id="@+id/shuqian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="提示"
+            android:textColor="@color/white"
+            android:textSize="16.0sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/Cancellation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:text="@string/loginout_now"
+        android:textColor="#333"
+        android:textSize="19sp" />
+
+    <TextView
+        android:id="@+id/subCancellation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text=""
+        android:textColor="#222"
+        android:textSize="13sp"
+        android:visibility="invisible" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:background="#C1C1C1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/confirm"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/item_white_bg_selector"
+            android:paddingBottom="3dp"
+            android:paddingTop="3dp" >
+
+            <TextView
+                android:id="@+id/exitBtn0"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/xml_dialog_delete_positive"
+                android:textColor="#63B8FF"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.2dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="3dp"
+            android:background="#C1C1C1" />
+
+        <LinearLayout
+            android:id="@+id/cancel"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/item_white_bg_selector"
+            android:paddingBottom="3dp"
+            android:paddingTop="3dp" >
+
+            <TextView
+                android:id="@+id/go_shopping_btn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/xml_dialog_delete_negative"
+                android:textColor="#63B8FF"
+                android:textSize="17sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,134 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="transparentFrameWindowStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
+    <style name="AnimationFade">
+        <item name="android:windowEnterAnimation">@anim/trans_x_in</item>
+        <item name="android:windowExitAnimation">@anim/trans_x_out</item>
+    </style>
+
+    <style name="AnimationThemeNoTitleBar" parent="AppBaseTheme">
+        <item name="android:windowAnimationStyle">@style/ActivityAnimationStyle</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="ActivityAnimationStyle">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_scale_up_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_scale_up_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_scale_down_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_scale_down_exit</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+
+    <style name="pop_bottom_menu_animstyle">
+        <item name="android:windowEnterAnimation">@anim/trans_y_open</item>
+        <item name="android:windowExitAnimation">@anim/trans_y_close</item>
+    </style>
+
+    <style name="pop_anim_style">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <style name="Translucent">
+        <item name="android:windowEnterAnimation">@anim/translucent_zoom_out</item>
+        <item name="android:windowExitAnimation">@anim/translucent_zoom_exit</item>
+    </style>
+
+    <style name="Yi.ListItem.TextAppearance.Large" parent="@style/Yi.TextAppearance.Big">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@drawable/yi_list_item_text_color_selector</item>
+    </style>
+
+    <style name="Yi.TextAppearance.Big" parent="@style/Yi.TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+
+    <style name="Yi.TextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColorHighlight">#ffbfddf3</item>
+    </style>
+
+    <!-- loading-bg-dialog -->
+    <style name="LoadBgDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <!-- loading-dialog -->
+    <style name="LoadDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="TVAnimDialogWindowAnim" mce_bogus="1" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_tv_on</item>
+        <item name="android:windowExitAnimation">@anim/dialog_tv_off</item>
+    </style>
+
+    <style name="TVAnimDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <!--设置底部弹出popupWindows的动画-->
+    <style name="anim_popup_bottombar">
+        <item name="android:windowEnterAnimation">@anim/popup_bottombar_in</item>
+        <item name="android:windowExitAnimation">@anim/popup_bottombar_out</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.9</item>
+    </style>
+
+    <!--添加style请写明注释，并规范命名-->
+
+    <!--滑动进度条显示当前进度刻度的浮动显示框 -->
+    <style name="float_view_style">
+        <!--<item name="android:background">@drawable/float_view_background</item>-->
+        <!--<item name="android:padding">5.0dp</item>-->
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/brilliant_blue</item>
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:visibility">visible</item>
+    </style>
+
+</resources>

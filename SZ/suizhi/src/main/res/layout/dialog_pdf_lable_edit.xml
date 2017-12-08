@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:background="#f3f3f3"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txt_edit_shuqian"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/edit_bookmarks"
+        android:textColor="#8D8D8D"
+        android:textSize="16sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"
+        android:background="@color/line_color" />
+
+    <EditText
+        android:id="@+id/edit_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="#00000000"
+        android:enabled="true"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:lineSpacingExtra="2.0dp"
+        android:maxLines="8"
+        android:minLines="5"
+        android:scrollbars="vertical"
+        android:textColor="@color/bkg_dimdark"
+        android:textSize="16sp" >
+    </EditText>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"
+        android:background="@color/line_color" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="42.0dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/dialog_edit_btn_positive"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/item_alpha_bg_selector"
+            android:singleLine="true"
+            android:text="@string/xml_dialog_delete_positive"
+            android:textColor="#8D8D8D"
+            android:textSize="16.0sp" />
+
+        <View
+            android:layout_width="0.3dp"
+            android:layout_height="match_parent"
+            android:background="@color/line_color" />
+
+        <Button
+            android:id="@+id/dialog_edit_btn_negative"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/item_alpha_bg_selector"
+            android:singleLine="true"
+            android:text="@string/xml_dialog_delete_negative"
+            android:textColor="#8D8D8D"
+            android:textSize="16.0sp" />
+    </LinearLayout>
+
+</LinearLayout>

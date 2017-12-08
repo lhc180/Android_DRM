@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 字体大小设置 -->
+    <dimen name="text_size_small">14.0sp</dimen>
+    <dimen name="text_size_smaller">12.0sp</dimen>
+    <dimen name="text_size_normal">16.0sp</dimen>
+    <dimen name="text_size_large">20.0sp</dimen>
+    <dimen name="text_size_bigger">26.0sp</dimen>
+    <!-- music icon size -->
+    <dimen name="music_img_width">50dip</dimen>
+    <dimen name="music_img_height">50dip</dimen>
+    <!-- seekbar height -->
+    <dimen name="seekbar_height">1.0dp</dimen>
+    <!-- roundprogressbar width -->
+    <dimen name="roundbar_width">2.0dp</dimen>
+    <!-- title 高度 -->
+    <dimen name="title_bar_height">50.0dp</dimen>
+    <!-- footerView height -->
+    <dimen name="swipe_footer_height">60.0dp</dimen>
+
+    <!-- 添加dimen请写明注释，并规范命名 -->
+    <!-- 添加dimen请写明注释，并规范命名 -->
+    <!-- 添加dimen请写明注释，并规范命名 -->
+
+    <!-- 滑动进度显示刻度的浮动框宽高 -->
+    <dimen name="float_view_width">110.0dp</dimen>
+    <dimen name="float_view_height">50.0dp</dimen>
+    <!--底部菜单高度-->
+    <dimen name="bottom_menu_height">50.0dp</dimen>
+    <!--xrecyclerview-->
+    <dimen name="xrecycler_text_margin">10dp</dimen>
+    <!--AVLoadingView-->
+    <dimen name="avloading_size">24dp</dimen>
+    <!--我的内容，搜索item高度-->
+    <dimen name="search_item_height">96.0dp</dimen>
+    <dimen name="search_item_img_width">144.0dp</dimen>
+
+</resources>

@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_menu_notification.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_notification.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sequence.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\sequence.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\single.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\single.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_bar_exit.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_bar_exit.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\iconfont_downgrey.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\iconfont_downgrey.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\video_list.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\video_list.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_brompt_dot_red.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_brompt_dot_red.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\video_pause.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\video_pause.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_prev.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\music_prev.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\video_play.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\video_play.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_lightbg_press.9.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_lightbg_press.9.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launchers.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_launchers.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_delete.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_pause.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\music_pause.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\imb_white1.9.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\imb_white1.9.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\imb_white0.9.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\imb_white0.9.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\video_info.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\video_info.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bookmake_normal.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\bookmake_normal.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\line_gray.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\line_gray.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\shunxu.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\shunxu.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_scanner_flash_p.9.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_scanner_flash_p.9.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_pulltorefresh_arrow.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_next.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\music_next.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\button_orange_match.9.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\button_orange_match.9.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bookmake_press.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\bookmake_press.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\progress_background.9.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\progress_background.9.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_scanner_flash_n.9.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_scanner_flash_n.9.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\video_next.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\video_next.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_play.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\music_play.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\video_prev.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\video_prev.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_login_meeting.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_login_meeting.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_list.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\music_list.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\welcomeui.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\welcomeui.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\music_bg.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\music_bg.png"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\progress_normal.9.png",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable-hdpi\\progress_normal.9.png"
+    }
+]

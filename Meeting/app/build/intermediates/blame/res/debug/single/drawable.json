@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_select_dialog.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\top_select_dialog.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_tabbargray_reverse_drawable.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\blue_tabbargray_reverse_drawable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\btn_dialog.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue_p.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\circle_blue_p.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_btn_bg.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\mediacontroller_btn_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yi_list_item_text_color_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\yi_list_item_text_color_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_stoken_update_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\btn_stoken_update_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_negavbtn_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\custom_negavbtn_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_bg_enable.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\point_bg_enable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_white_draw.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\custom_progress_white_draw.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_dialog_bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\loading_dialog_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_white_draw.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\progressbar_white_draw.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_bg_enable.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\point_bg_enable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_scanner_flash.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\img_scanner_flash.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_cell_bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\item_cell_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\btn_dialog.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue_n.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\circle_blue_n.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_pdf_busy.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\loading_pdf_busy.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_bg_enable.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\point_bg_enable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_white_bg_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\item_white_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yi_list_item_text_color_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\yi_list_item_text_color_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\seekbar_progress.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_posbtn_selector.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\custom_posbtn_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_select_dialog.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\top_select_dialog.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_flash_state.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\img_flash_state.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_state.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\check_state.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_bookmark_icon.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\select_bookmark_icon.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_white_bg_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\item_white_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_bookmark_icon.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\select_bookmark_icon.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_stoken_update_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\btn_stoken_update_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_pdf_busy.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\loading_pdf_busy.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue_p.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\circle_blue_p.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_bg_normal.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\point_bg_normal.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dim_round_background.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\dim_round_background.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_white_reverse_drawable.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\black_white_reverse_drawable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_background.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\point_background.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_light_bg_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\item_light_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_bg_normal.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\point_bg_normal.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue_p.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\circle_blue_p.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_btn_bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\mediacontroller_btn_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_dialog_bg.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\loading_dialog_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_scanner_flash.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\img_scanner_flash.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\seekbar_progress.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_state.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\check_state.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_edit_blue.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\xml_edit_blue.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_white_draw.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\custom_progress_white_draw.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_white_draw.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\progressbar_white_draw.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_edit_blue.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\xml_edit_blue.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_tabbargray_reverse_drawable.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\blue_tabbargray_reverse_drawable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_white_draw.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\custom_progress_white_draw.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_cell_bg.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\item_cell_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue_n.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\circle_blue_n.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_posbtn_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\custom_posbtn_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yi_list_item_text_color_selector.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\yi_list_item_text_color_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_white_draw.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\progressbar_white_draw.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_flash_state.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\img_flash_state.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_negavbtn_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\custom_negavbtn_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\busy.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\busy.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_background.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\point_background.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_tabbargray_reverse_drawable.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\blue_tabbargray_reverse_drawable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_negavbtn_selector.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\custom_negavbtn_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_posbtn_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\custom_posbtn_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dim_round_background.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\dim_round_background.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_bg_normal.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\point_bg_normal.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_flash_state.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\img_flash_state.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_light_bg_selector.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\item_light_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue_n.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\circle_blue_n.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\seekbar_progress.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_light_bg_selector.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\item_light_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_pdf_busy.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\loading_pdf_busy.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dim_round_background.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\dim_round_background.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_cell_bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\item_cell_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_btn_bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\mediacontroller_btn_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_white_bg_selector.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\item_white_bg_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_scanner_flash.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\img_scanner_flash.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_state.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\check_state.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_stoken_update_selector.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\btn_stoken_update_selector.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_white_reverse_drawable.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\black_white_reverse_drawable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_background.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\point_background.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\busy.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\busy.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\busy.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\busy.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_dialog_bg.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\loading_dialog_bg.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_select_dialog.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\drawable\\top_select_dialog.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_bookmark_icon.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\select_bookmark_icon.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_white_reverse_drawable.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\black_white_reverse_drawable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\drawable\\btn_dialog.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_edit_blue.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\drawable\\xml_edit_blue.xml"
+    }
+]

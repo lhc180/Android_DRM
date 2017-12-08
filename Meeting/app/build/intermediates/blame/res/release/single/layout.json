@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\title_home_head.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\title_home_head.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_pdf_buttons.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_pdf_buttons.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_video_info.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_video_info.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_retrievepassword.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_retrievepassword.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_download_main.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_download_main.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_common.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_common.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_welcome.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\no_ptr_header.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\no_ptr_header.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_pdf_outline.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\fragment_pdf_outline.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_login2.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_pdf_mark.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_pdf_mark.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_pdf_bookmark.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\fragment_pdf_bookmark.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_loading.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_outline_tab.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_outline_tab.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_isdelete.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_isdelete.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\retailers_activity.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\retailers_activity.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_pdf_infor.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_pdf_infor.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_content.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_content.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_save_notes.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_save_notes.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_clear.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_clear.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_warning.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_warning.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_sz_info.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_sz_info.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_video_lists.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_video_lists.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_capture.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_footer.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_pdf_lable.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_pdf_lable.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_bgloading.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_bgloading.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_scanhistory.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_scanhistory.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_update_app.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_update_app.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\title_meeting_bar.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\title_meeting_bar.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\common_custom_toast.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\common_custom_toast.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\recyclerview_footer.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\recyclerview_footer.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_download_main.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_download_main.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\music_icon_layout.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\music_icon_layout.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\empty_view.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_header.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_pdf_lable_edit.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_pdf_lable_edit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_download_main_local.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_download_main_local.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_pdf_outline.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_pdf_outline.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_music_play.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_music_play.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\recyclerview_header.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\recyclerview_header.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_pdf_menu_list.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_pdf_menu_list.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_video_menu_list.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_video_menu_list.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\title_music_bar.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\title_music_bar.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\preference_category.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_setting.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_music_menu_list.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_music_menu_list.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_mymeeting_record.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_mymeeting_record.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\title_pdf_notes_bar.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\title_pdf_notes_bar.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_music_menu_list.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_music_menu_list.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_music_img.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\fragment_music_img.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\title_mymeeting_common_bar.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\title_mymeeting_common_bar.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_sz_about2.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_sz_about2.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_download_main_bak.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_download_main_bak.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_mechanism.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_mechanism.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_top.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\tab_top.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_sz_about.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_sz_about.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_albumlist_adapter.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_albumlist_adapter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_music_playbar.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\notification_music_playbar.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_mechanism.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_mechanism.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\media_control_layout.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\media_control_layout.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_music_lyc.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\fragment_music_lyc.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\loadingindicator_loading.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\loadingindicator_loading.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\preference.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\preference.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_scanhistory.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_scanhistory.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_register.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\textinput_dialog.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\textinput_dialog.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_app_update.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\notification_app_update.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_findall_notes.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_findall_notes.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\textentry.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\textentry.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\title_common_bar.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\title_common_bar.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_video_player.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_mymeeting_history.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\activity_mymeeting_history.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\title_download_head.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\title_download_head.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_menu_list.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\item_menu_list.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\edit_view_textentry.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\edit_view_textentry.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_user.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\layout\\dialog_user.xml"
+    }
+]

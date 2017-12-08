@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0_5f1533131e4ee357cbe0e16e657ff3bbb6e1244f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0d3683277836a96a6015f3b3165734c6a02c0294">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_47e26b289944610bb31da2fec3870cfc34e42c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\jars\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7f9d7b14907571ee5871cb1ebd752d4aed14d27c">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_47cc75343bbe287f5babd886b6dcfd3d13beede3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\rxandroid-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\rxandroid-1.1.0_65bff5a3c2f1499c83f77e411b3eb0c84b87f3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="aaa9bc27cf2226482875d769ac45286970935b21">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\android-support-v4_7aa05ca79b0c1ef0494c96a5eb1f76896d8a3612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\commons-net-3.3_30df9e5e7ca27c8d6e5b43015dfc5106b8afc6f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="165752d1a48597261ba0558c20b69a7fa6cad4b4">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_a5f67db80cf30cd1dbbcc108f267d1442e9fb796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ee64a4c7d3469af84236b8404f076318c6d2641">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\meeting-recyclerview-unspecified_439dd64284c72649e107117e804687c43b942089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_f186f82fe07067b669184a1e701fc3c7bbeaf933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\universal-image-loader-1.9.4-src.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-src_b7622a8b7e2fe8f2e6f8eee277c14a01fc534c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\jpush-sdk-release1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bea84de265dbd10ec4ea0d0185cf19dce738edd6">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\jpush-sdk-release1.8.0_dfb3dab16a4df02d6ec0a7ec4f49c2b979add1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\fastjson-1.1.26.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b2b3f3739af181d3c191b19ecb3f32fcb31af98f">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\fastjson-1.1.26_0330e6004861953495f2dac1f9cbe45542569509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\bcprov-jdk15-143.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f01520ef76840559157b93c0043f3a7e1a964c16">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\bcprov-jdk15-143_0e4eb467f81fc555d5257403e7fb09b7e5bfa9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5589d0e71fbbd91262d1aa6c8e153ff211ec9fe0">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\core-3.1.1-SNAPSHOT_ecc9bf904fb7e067a220159946e71f63c996f0c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_d5b37921f00c2f511c115c0d5ae168152c84feae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\android-core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9ee2a9155907c0a0398caa2eeceafdafd79ee8d8">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\android-core-3.1.1-SNAPSHOT_2c187751ac57c05ce1d590d7e660a24e7c5948e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\libs\httpmime-4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d34b163e52a9727101aced60775d51c5085390a1">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\httpmime-4.1.1_6ef3cbcb6613bb982f402effed0dda4e1c0dff8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songyumei\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\pre-dexed\debug\gson-2.3.1_6f95f7b8d33afa0d1717c6c07092fd6f5dd5009b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.com.pyc.drm.ui.DiscoverActivity">
+
+    <cn.com.pyc.drm.widget.IconCenterTextView
+        android:id="@+id/dc_search_text"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_centerVertical="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/round_white_background"
+        android:drawableLeft="@drawable/ic_search"
+        android:drawablePadding="3dp"
+        android:gravity="center"
+        android:text="@string/search_hint"
+        android:textColor="#969696"
+        android:textSize="15.6sp"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/empty_view"/>
+
+        <com.aspsine.swipetoloadlayout.SwipeToLoadLayout
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/swipeToLoadLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            app:drag_ratio="0.4"
+            app:refresh_enabled="true"
+            app:swipe_style="classic">
+
+            <!-- Header,Footer,target的id必须与指定的一致 -->
+            <!-- swipe_target,swipe_load_more_footer,swipe_refresh_header -->
+            <include
+                android:id="@id/swipe_refresh_header"
+                layout="@layout/layout_classic_header"/>
+
+            <cn.com.pyc.drm.widget.ProgressWebView
+                android:id="@+id/swipe_target"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="3.0dp"
+                android:background="@color/transparent"/>
+
+        </com.aspsine.swipetoloadlayout.SwipeToLoadLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

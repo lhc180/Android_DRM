@@ -1,0 +1,228 @@
+# view res/layout/activity_music_play.xml #generated:38
+# view res/layout/activity_outline_tab.xml #generated:21
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class cn.com.pyc.drm.common.App { <init>(...); }
+
+# view AndroidManifest.xml #generated:285
+-keep class cn.com.pyc.drm.receiver.JPushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:200
+-keep class cn.com.pyc.drm.service.AppUpdateService { <init>(...); }
+
+# view AndroidManifest.xml #generated:201
+-keep class cn.com.pyc.drm.service.BGOCommandService { <init>(...); }
+
+# view AndroidManifest.xml #generated:199
+-keep class cn.com.pyc.drm.service.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:202
+-keep class cn.com.pyc.drm.service.FloatViewService { <init>(...); }
+
+# view AndroidManifest.xml #generated:198
+-keep class cn.com.pyc.drm.service.MediaService { <init>(...); }
+
+# view AndroidManifest.xml #generated:170
+-keep class cn.com.pyc.drm.ui.DownloadMainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class cn.com.pyc.drm.ui.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class cn.com.pyc.drm.ui.LoginActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:146
+-keep class cn.com.pyc.drm.ui.MechanismActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class cn.com.pyc.drm.ui.MuPDFActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:161
+-keep class cn.com.pyc.drm.ui.MuPDFAlbumActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class cn.com.pyc.drm.ui.MuPDFFindAllNotes { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class cn.com.pyc.drm.ui.MuPDFMuHomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class cn.com.pyc.drm.ui.MuPDFOutlineActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class cn.com.pyc.drm.ui.MuPDFSaveNotes { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class cn.com.pyc.drm.ui.MusicAlbumActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class cn.com.pyc.drm.ui.MusicHomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class cn.com.pyc.drm.ui.MyMeetingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class cn.com.pyc.drm.ui.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class cn.com.pyc.drm.ui.RetrievepasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:174
+-keep class cn.com.pyc.drm.ui.SZInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class cn.com.pyc.drm.ui.ScanHistoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class cn.com.pyc.drm.ui.ScanLoginVerificationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:166
+-keep class cn.com.pyc.drm.ui.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class cn.com.pyc.drm.ui.VideoAlbumActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class cn.com.pyc.drm.ui.VideoPlayerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class cn.com.pyc.drm.ui.VoteActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class cn.com.pyc.drm.ui.WelcomeActivity { <init>(...); }
+
+# view res/layout/activity_login2.xml #generated:33
+# view res/layout/activity_login2.xml #generated:49
+# view res/layout/activity_register.xml #generated:24
+# view res/layout/activity_register.xml #generated:46
+# view res/layout/activity_register.xml #generated:75
+# view res/layout/activity_register.xml #generated:89
+# view res/layout/activity_retrievepassword.xml #generated:24
+# view res/layout/activity_retrievepassword.xml #generated:45
+# view res/layout/activity_retrievepassword.xml #generated:74
+# view res/layout/activity_retrievepassword.xml #generated:88
+-keep class cn.com.pyc.drm.widget.ClearEditText { <init>(...); }
+
+# view res/layout/activity_login.xml #generated:29
+# view res/layout/activity_login2.xml #generated:65
+# view res/layout/activity_register.xml #generated:115
+# view res/layout/activity_register.xml #generated:61
+# view res/layout/activity_retrievepassword.xml #generated:114
+# view res/layout/activity_retrievepassword.xml #generated:60
+-keep class cn.com.pyc.drm.widget.FlatButton { <init>(...); }
+
+# view res/layout/activity_music_menu_list.xml #generated:29
+# view res/layout/activity_music_play.xml #generated:115
+# view res/layout/activity_music_play.xml #generated:124
+# view res/layout/activity_music_play.xml #generated:156
+# view res/layout/activity_outline_tab.xml #generated:26
+# view res/layout/activity_pdf_buttons.xml #generated:124
+# view res/layout/activity_pdf_buttons.xml #generated:14
+# view res/layout/activity_pdf_buttons.xml #generated:144
+# view res/layout/activity_pdf_menu_list.xml #generated:24
+# view res/layout/activity_sz_info.xml #generated:14
+# view res/layout/empty_view.xml #generated:14
+# view res/layout/fragment_pdf_outline.xml #generated:14
+# view res/layout/media_control_layout.xml #generated:116
+# view res/layout/media_control_layout.xml #generated:14
+# view res/layout/media_control_layout.xml #generated:171
+# view res/layout/media_control_layout.xml #generated:52
+# view res/layout/media_control_layout.xml #generated:71
+# view res/layout/media_control_layout.xml #generated:92
+# view res/layout/retailers_activity.xml #generated:13
+# view res/layout/retailers_activity.xml #generated:43
+# view res/layout/title_common_bar.xml #generated:37
+# view res/layout/title_common_bar.xml #generated:7
+# view res/layout/title_home_head.xml #generated:22
+# view res/layout/title_music_bar.xml #generated:7
+# view res/layout/title_mymeeting_common_bar.xml #generated:14
+# view res/layout/title_mymeeting_common_bar.xml #generated:53
+# view res/layout/title_pdf_notes_bar.xml #generated:8
+-keep class cn.com.pyc.drm.widget.HighlightImageView { <init>(...); }
+
+# view res/layout/activity_setting.xml #generated:294
+-keep class cn.com.pyc.drm.widget.HightLightButton { <init>(...); }
+
+# view res/layout/activity_sz_about.xml #generated:48
+-keep class cn.com.pyc.drm.widget.JustifyTextView { <init>(...); }
+
+# view res/layout/activity_pdf_buttons.xml #generated:32
+# view res/layout/dialog_video_info.xml #generated:27
+# view res/layout/dialog_video_info.xml #generated:64
+# view res/layout/dialog_video_info.xml #generated:98
+# view res/layout/fragment_music_img.xml #generated:48
+# view res/layout/fragment_pdf_outline.xml #generated:32
+# view res/layout/media_control_layout.xml #generated:31
+# view res/layout/title_music_bar.xml #generated:24
+-keep class cn.com.pyc.drm.widget.MarqueeTextView { <init>(...); }
+
+# view res/layout/activity_setting.xml #generated:209
+# view res/layout/dialog_loading.xml #generated:9
+# view res/layout/xlistview_footer.xml #generated:24
+-keep class cn.com.pyc.drm.widget.ProgressWheel { <init>(...); }
+
+# view res/layout/item_download_main.xml #generated:88
+# view res/layout/item_download_main_bak.xml #generated:94
+-keep class cn.com.pyc.drm.widget.RoundProgressBar { <init>(...); }
+
+# view res/layout/fragment_music_lyc.xml #generated:8
+-keep class cn.com.pyc.drm.widget.lrc.LyricShow { <init>(...); }
+
+# view res/layout/activity_music_play.xml #generated:24
+-keep class cn.com.pyc.drm.widget.waveview.WaveView { <init>(...); }
+
+# view AndroidManifest.xml #generated:284
+-keep class cn.jpush.android.service.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:272
+-keep class cn.jpush.android.service.DaemonService { <init>(...); }
+
+# view AndroidManifest.xml #generated:264
+-keep class cn.jpush.android.service.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:221
+-keep class cn.jpush.android.service.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class cn.jpush.android.service.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:250
+-keep class cn.jpush.android.ui.PushActivity { <init>(...); }
+
+# view res/layout/item_download_main.xml #generated:17
+# view res/layout/item_download_main_local.xml #generated:15
+-keep class com.android.maxwin.view.ScaleImageView { <init>(...); }
+
+# view res/layout/activity_download_main.xml #generated:103
+# view res/layout/activity_download_main.xml #generated:92
+-keep class com.android.maxwin.view.XListView { <init>(...); }
+
+# view res/layout/activity_findall_notes.xml #generated:17
+# view res/layout/activity_scanhistory.xml #generated:13
+-keep class com.baoyz.swipemenulistview.SwipeMenuListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:187
+-keep class com.google.zxing.client.android.CaptureActivity { <init>(...); }
+
+# view res/layout/activity_capture.xml #generated:16
+-keep class com.google.zxing.client.android.view.ViewfinderView { <init>(...); }
+
+# view res/layout/activity_outline_tab.xml #generated:7
+-keep class com.indicators.view.indicator.ScrollIndicatorView { <init>(...); }
+
+# view res/layout/recyclerview_header.xml #generated:59
+-keep class com.jcodecraeer.xrecyclerview.SimpleViewSwithcer { <init>(...); }
+
+# view res/layout/activity_mechanism.xml #generated:40
+# view res/layout/activity_mymeeting_history.xml #generated:52
+-keep class com.jcodecraeer.xrecyclerview.XRecyclerView { <init>(...); }
+
+# view res/layout/dialog_bgloading.xml #generated:18
+# view res/layout/loadingindicator_loading.xml #generated:9
+# view res/layout/xlistview_header.xml #generated:74
+-keep class com.jcodecraeer.xrecyclerview.progressindicator.AVLoadingIndicatorView { <init>(...); }
+
+# view res/layout/activity_video_player.xml #generated:5
+-keep class tv.danmaku.ijk.media.widget.VideoView { <init>(...); }
+

@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="cn.com.pyc.drm.fragment.FragmentMusicPreview">
+
+    <include layout="@layout/empty_view"/>
+
+    <WebView
+        android:id="@+id/music_preview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_gravity="center"
+        android:background="@color/transparent"
+        android:visibility="invisible"
+        android:scrollbars="none"/>
+
+</FrameLayout>

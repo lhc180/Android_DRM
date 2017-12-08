@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/include_title_bar"
+        layout="@layout/title_mymeeting_common_bar" />
+
+    <RelativeLayout
+        android:id="@+id/rl_prompt"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/include_title_bar"
+       android:background="@drawable/item_white_bg_selector"
+         >
+
+        <TextView
+            android:id="@+id/tv_servername"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/iv"
+            android:gravity="center"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:text=""
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/ic_arrow_back_right" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="0.3dp"
+        android:layout_below="@+id/rl_prompt"
+        android:background="@color/line_color" />
+
+    <com.jcodecraeer.xrecyclerview.XRecyclerView
+        android:id="@+id/lv_scanhistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view"
+        android:background="@drawable/bg"
+        android:divider="@null"
+        android:listSelector="#00000000" />
+
+    <TextView
+        android:id="@+id/tv_hintsinfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/mechanism_add_hints"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

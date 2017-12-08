@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pdf_lv_bkg"
+    android:gravity="center" >
+
+  <RelativeLayout
+        android:id="@+id/rel_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/video_bkg_lightdark" >
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/back"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:gravity="center_vertical"
+            android:padding="4dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_takeback_left" />
+
+        <View
+            android:layout_width="1.0dip"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/back"
+            android:background="@drawable/title_line" />
+
+        <cn.com.pyc.drm.widget.MarqueeTextView
+            android:id="@+id/focused_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="目录"
+            android:textColor="@color/ivory"
+            android:textSize="16.0sp" />
+      
+    </RelativeLayout>
+    
+  
+  
+    <ListView
+        android:id="@+id/outline_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rel_titlebar"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@null"
+        android:fastScrollEnabled="true"
+        android:listSelector="@color/transparent"
+        android:scrollbars="none" />
+
+</RelativeLayout>

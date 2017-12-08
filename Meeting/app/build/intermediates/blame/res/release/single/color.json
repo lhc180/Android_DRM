@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\color\\primary_text_light.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\color\\primary_text_light.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\color\\secondary_text_light.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\color\\secondary_text_light.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\color\\selector_meet_history_textcolor.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\color\\selector_meet_history_textcolor.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\color\\selector_direc_textcolor.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\color\\selector_direc_textcolor.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\color\\selector_labledit_textcolor.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\color\\selector_labledit_textcolor.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\color\\select_save_notes_textcolor.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\color\\select_save_notes_textcolor.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\color\\login_select_tv.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\color\\login_select_tv.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\release\\color\\tab_top_selector.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\color\\tab_top_selector.xml"
+    }
+]

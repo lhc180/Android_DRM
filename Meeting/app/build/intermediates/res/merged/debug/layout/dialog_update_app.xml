@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/dialog_update_title"
+        android:layout_width="match_parent"
+        android:layout_height="44.0dip"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="检测到新版本"
+        android:textColor="@color/title_bar_bg_color"
+        android:textSize="16.0sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1.0dip"
+        android:background="@color/dialog_divider" >
+    </View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/dialog_update_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:minHeight="36.0dp"
+            android:padding="10.0dip"
+            android:textColor="#AA000000"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:id="@+id/dialog_update_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="5dp"
+            android:text="@string/version_wifi_update_tips"
+            android:textColor="#a1a1a1"
+            android:textSize="13sp"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:background="#C1C1C1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40.0dip"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/dialog_update_now"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/item_white_bg_selector"
+            android:singleLine="true"
+            android:text="@string/update_app_now"
+            android:textColor="@color/title_bar_bg_color" />
+
+        <View
+            android:layout_width="0.2dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:background="#C1C1C1" >
+        </View>
+
+        <Button
+            android:id="@+id/dialog_update_later"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:background="@drawable/item_white_bg_selector"
+            android:singleLine="true"
+            android:text="@string/update_app_later"
+            android:textColor="#969696"
+            android:textSize="16.0dip" />
+    </LinearLayout>
+
+</LinearLayout>

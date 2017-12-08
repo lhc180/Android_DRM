@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:focusable="false" >
+
+    <RelativeLayout
+        android:id="@+id/amc_lyt_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/video_bkg_lightdark" >
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/amc_imb_back"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:gravity="center_vertical"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_takeback_left" />
+
+        <View
+            android:layout_width="1.0dip"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/amc_imb_back"
+            android:background="@drawable/title_line" />
+
+        <cn.com.pyc.drm.widget.MarqueeTextView
+            android:id="@+id/amc_txt_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="title"
+            android:textColor="@color/ivory"
+            android:textSize="16.0sp" />
+
+
+        <LinearLayout
+            android:id="@+id/amc_ll_tight"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp" >
+
+            <ImageView
+                android:id="@+id/amc_imb_battery"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/battery_3" />
+
+            <TextView
+                android:id="@+id/amc_txt_systime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="2dp"
+                android:text="00:00"
+                android:textColor="#EFFFFFFF"
+                android:textSize="12.0sp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="1.0dip"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@id/amc_ll_tight"
+            android:background="@drawable/title_line" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/amc_lyt_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:layout_alignParentBottom="true"
+        android:background="@color/video_bkg_lightdark" >
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/amc_imb_previous"
+            android:layout_width="@dimen/video_button_size"
+            android:layout_height="@dimen/video_button_size"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/video_prev" />
+
+        <ImageButton
+            android:id="@+id/amc_imb_start_pause"
+            android:layout_width="@dimen/video_startOrPause_button_size"
+            android:layout_height="@dimen/video_startOrPause_button_size"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="18dp"
+            android:layout_toRightOf="@id/amc_imb_previous"
+            android:background="@drawable/video_play"
+            android:clickable="true"
+            android:focusable="true" />
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/amc_imb_next"
+            android:layout_width="@dimen/video_button_size"
+            android:layout_height="@dimen/video_button_size"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="18dp"
+            android:layout_toRightOf="@id/amc_imb_start_pause"
+            android:focusable="true"
+            android:src="@drawable/video_next" />
+
+        <TextView
+            android:id="@+id/amc_txt_current"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="18dp"
+            android:layout_toRightOf="@id/amc_imb_next"
+            android:text="00:00:00"
+            android:textColor="#EFFFFFFF"
+            android:textSize="15.0sp" />
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/amc_imb_list"
+            android:layout_width="@dimen/video_button_size"
+            android:layout_height="@dimen/video_button_size"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="18dp"
+            android:src="@drawable/video_list" />
+
+        <TextView
+            android:id="@+id/amc_text_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/amc_imb_list"
+            android:layout_alignTop="@id/amc_imb_list"
+            android:layout_marginRight="-7dp"
+            android:layout_marginTop="-5dp"
+            android:background="@drawable/circle_white"
+            android:gravity="center"
+            android:textColor="#BB000000"
+            android:textSize="8.8dp"
+            android:visibility="gone" />
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/amc_imb_info"
+            android:layout_width="@dimen/video_button_size"
+            android:layout_height="@dimen/video_button_size"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:layout_toLeftOf="@id/amc_imb_list"
+            android:src="@drawable/video_info" />
+
+        <TextView
+            android:id="@+id/amc_txt_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/amc_imb_info"
+            android:text="00:00:00"
+            android:textColor="#AAFFFFFF"
+            android:textSize="15.0sp" />
+
+        <SeekBar
+            android:id="@+id/amc_skb_progress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/amc_txt_duration"
+            android:layout_toRightOf="@id/amc_txt_current"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:clickable="true"
+            android:focusable="false"
+            android:maxHeight="@dimen/seekbar_height"
+            android:minHeight="@dimen/seekbar_height"
+            android:progressDrawable="@drawable/seekbar_progress"
+            android:thumb="@drawable/seekbar_thumb"
+            android:thumbOffset="0dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/amc_lyt_list"
+        android:layout_width="260dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="#3F3F40"
+        android:visibility="gone" >
+
+        <ListView
+            android:id="@+id/amc_lv_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@null"
+            android:dividerHeight="0px"
+            android:listSelector="@color/transparent"
+            android:overScrollMode="never"
+            android:scrollbars="none" />
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/amc_iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_back_activity" />
+    </RelativeLayout>
+
+</RelativeLayout>

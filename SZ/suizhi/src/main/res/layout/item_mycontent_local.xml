@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:padding="2.5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/search_item_height"
+        android:background="@drawable/item_cell_bg">
+
+        <!--用户图片 3：2-->
+        <com.android.maxwin.view.ScaleImageView
+            android:id="@+id/item_top_back"
+            android:layout_width="@dimen/search_item_img_width"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:background="@color/search_item_img_bg"
+            android:scaleType="centerInside"/>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/item_top_back">
+
+            <TextView
+                android:id="@+id/item_top_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:padding="3dp"
+                android:textColor="@color/black_aa"
+                android:textSize="16sp"
+                tools:text="达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇"/>
+
+            <TextView
+                android:id="@+id/item_bottom_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="3dp"
+                android:maxLines="1"
+                android:padding="3dp"
+                android:textColor="#999999"
+                android:textSize="14sp"
+                tools:text="国权演讲社"/>
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/item_cell_bg"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.android.maxwin.view.ScaleImageView
+                android:id="@+id/item_top_back"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/loading_empty_logo"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:id="@+id/item_top_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="3dp"
+                android:gravity="left"
+                android:lineSpacingExtra="2.0dp"
+                android:maxLines="2"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                tools:text="达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇达芬奇传奇"/>
+
+            <TextView
+                android:id="@+id/item_top_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/item_top_name"
+                android:layout_marginLeft="6.0dp"
+                android:layout_marginTop="2.0dp"
+                android:gravity="left"
+                android:maxLines="1"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                tools:text="2017-05-23"/>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/item_top_back"
+                android:layout_marginBottom="5.0dp"
+                android:layout_marginLeft="6.0dp">
+
+                <ImageView
+                    android:id="@+id/item_imv_top_ic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/icon_white_audio"/>
+
+                <TextView
+                    android:id="@+id/item_txt_top_category"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="6.0dp"
+                    android:layout_toRightOf="@id/item_imv_top_ic"
+                    android:gravity="left"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    tools:text="基础技能"/>
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6.0dp"
+            android:layout_marginTop="5.0dp">
+
+
+
+            <TextView
+                android:id="@+id/item_bottom_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5.0dp"
+                android:layout_marginBottom="5dp"
+                android:gravity="right"
+                android:maxLines="2"
+                android:textColor="#212121"
+                android:textSize="14sp"
+                tools:text="国权演讲社"/>
+        </RelativeLayout>
+        </LinearLayout>-->
+
+
+</LinearLayout>

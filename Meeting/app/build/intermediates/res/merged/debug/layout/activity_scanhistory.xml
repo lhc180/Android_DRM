@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <!-- 页面标题 -->
+
+    <include layout="@layout/title_common_bar" />
+    <!-- 显示内容 -->
+
+    <com.baoyz.swipemenulistview.SwipeMenuListView
+        android:id="@+id/lv_history"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       	android:divider="@null" 
+        android:listSelector="#00000000" >
+    </com.baoyz.swipemenulistview.SwipeMenuListView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center" >
+
+        <include layout="@layout/empty_view" />
+    </RelativeLayout>
+
+</LinearLayout>

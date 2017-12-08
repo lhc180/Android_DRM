@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:suizhi_wave="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/musicRL"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/music_title_bar"
+        layout="@layout/title_music_bar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottom_bar"
+        android:layout_below="@id/music_title_bar"
+        android:layout_marginTop="1.0dp" >
+
+        <FrameLayout
+            android:id="@+id/frame_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <cn.com.pyc.drm.widget.waveview.WaveView
+                android:id="@+id/wave_view"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_gravity="center_horizontal|bottom"
+                android:background="@color/transparent"
+                android:visibility="invisible"
+                suizhi_wave:above_wave_color="#CECECE"
+                suizhi_wave:blow_wave_color="#CECECE"
+                suizhi_wave:progress="80"
+                suizhi_wave:wave_height="middle"
+                suizhi_wave:wave_hz="slow"
+                suizhi_wave:wave_length="large" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewpager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/frame_view"
+            android:background="#00C6E2FF"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/MiniLyricShow"
+                android:layout_width="match_parent"
+                android:layout_height="20.0dip"
+                android:gravity="center"
+                android:text="@string/no_lyrics"
+                android:textSize="16.0dip"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:id="@+id/ll_point_group"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="5dip"
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_buffering"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textColor="#ff737373"
+            android:visibility="invisible" />
+
+        <SeekBar
+            android:id="@+id/progressSeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="false"
+            android:maxHeight="@dimen/seekbar_height"
+            android:minHeight="@dimen/seekbar_height"
+            android:progressDrawable="@drawable/seekbar_progress"
+            android:thumb="@drawable/seekbar_thumb"
+            android:thumbOffset="0dp" />
+
+        <RelativeLayout
+            android:id="@+id/player_control"
+            android:layout_width="match_parent"
+            android:layout_height="100dip" >
+
+            <ImageButton
+                android:id="@+id/pausebtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/music_play"
+                android:clickable="true"
+                android:focusable="true" />
+
+            <cn.com.pyc.drm.widget.HighlightImageView
+                android:id="@+id/prevbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="0.0dip"
+                android:layout_toLeftOf="@id/pausebtn"
+                android:src="@drawable/music_prev" />
+
+            <cn.com.pyc.drm.widget.HighlightImageView
+                android:id="@+id/menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="90dip"
+                android:layout_toRightOf="@id/pausebtn"
+                android:src="@drawable/music_list" />
+
+            <TextView
+                android:id="@+id/iv_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@+id/menu"
+                android:layout_alignTop="@+id/menu"
+                android:layout_marginRight="-4dp"
+                android:layout_marginTop="-5dp"
+                android:background="@drawable/circle_white"
+                android:gravity="center"
+                android:textColor="#BB000000"
+                android:textSize="8.8dp"
+                android:visibility="invisible" />
+
+            <ImageButton
+                android:id="@+id/Prompt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="65dip"
+                android:layout_toLeftOf="@id/pausebtn"
+                android:background="@drawable/shunxu" />
+
+            <cn.com.pyc.drm.widget.HighlightImageView
+                android:id="@+id/nextbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/pausebtn"
+                android:focusable="true"
+                android:src="@drawable/music_next" />
+
+            <TextView
+                android:id="@+id/currTimeTextView"
+                android:layout_width="50.0dip"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:gravity="center_horizontal"
+                android:text="@string/start_time_format"
+                android:textColor="@color/ivory"
+                android:textSize="13.0sp" />
+
+            <TextView
+                android:id="@+id/totalTimeTextView"
+                android:layout_width="50.0dip"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/pausebtn"
+                android:layout_alignParentRight="true"
+                android:gravity="center_horizontal"
+                android:text="@string/stop_time_format"
+                android:textColor="@color/ivory"
+                android:textSize="13.0sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

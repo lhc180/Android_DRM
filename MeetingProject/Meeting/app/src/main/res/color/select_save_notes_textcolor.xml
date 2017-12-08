@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+       <!-- 保存备注字体颜色选择器  -->
+    <item android:state_selected="true" android:color="#3379B7"/>
+    <item android:state_pressed="true" android:color="#3379B7"/>
+    <item android:color="@color/white"/>
+</selector>

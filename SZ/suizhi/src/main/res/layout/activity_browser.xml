@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/linear_bottom"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/title_bar_height"
+            android:background="@color/title_bg_color">
+
+            <cn.com.pyc.drm.widget.HighlightImageView
+                android:id="@+id/ab_back_image"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:paddingLeft="13dp"
+                android:paddingRight="13dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_back"/>
+
+            <TextView
+                android:id="@+id/ab_title_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_toLeftOf="@+id/ab_share_image"
+                android:layout_toRightOf="@id/ab_back_image"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="16.0sp"/>
+
+            <cn.com.pyc.drm.widget.HighlightImageView
+                android:id="@+id/ab_share_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_to_share"/>
+
+        </RelativeLayout>
+
+        <cn.com.pyc.drm.widget.ProgressWebView
+            android:id="@+id/ab_content_webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+
+    <!--不显示了-->
+    <LinearLayout
+        android:id="@+id/linear_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="42.0dp"
+        android:layout_alignParentBottom="true"
+        android:background="#eaeaea"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:weightSum="3">
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <cn.com.pyc.drm.widget.HighlightImageView
+                android:id="@+id/img_goBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/ie_arrow_left"/>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <cn.com.pyc.drm.widget.HighlightImageView
+                android:id="@+id/img_goForward"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/ie_arrow_right"/>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <cn.com.pyc.drm.widget.HighlightImageView
+                android:id="@+id/img_refreshPage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/ie_refreash_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+
+</RelativeLayout>

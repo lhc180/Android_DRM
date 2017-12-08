@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg"
+                android:orientation="vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/wel_button_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/sz_phone_logo"/>
+
+    <LinearLayout
+        android:id="@+id/wel_button_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp">
+
+            <cn.com.pyc.drm.widget.FlatButton
+                android:id="@+id/btn_wechat_login"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                fbutton:buttonColor="#1FAA46"
+                fbutton:cornerRadius="4dp"
+                fbutton:shadowEnabled="false"/>
+
+            <TextView
+                android:id="@+id/tv_wechat_lable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/weChat_login"
+                android:textColor="@color/white"
+                android:textSize="16sp"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="6dp"
+                android:layout_toLeftOf="@id/tv_wechat_lable"
+                android:src="@drawable/ic_wexin"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/wel_qq_layout"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp">
+
+            <cn.com.pyc.drm.widget.FlatButton
+                android:id="@+id/btn_qq_login"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                fbutton:buttonColor="#4FC1E9"
+                fbutton:cornerRadius="4dp"
+                fbutton:shadowEnabled="false"/>
+
+            <TextView
+                android:id="@+id/tv_qq_lable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/QQ_login"
+                android:textColor="@color/white"
+                android:textSize="16sp"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="6dp"
+                android:layout_toLeftOf="@id/tv_qq_lable"
+                android:src="@drawable/ic_qq"/>
+        </RelativeLayout>
+
+        <cn.com.pyc.drm.widget.HighlightImageView
+            android:id="@+id/iv_sz_login"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_margin="20dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/sz_login_button"/>
+
+        <TextView
+            android:id="@+id/tv_register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:padding="10.0dp"
+            android:text="@string/register_title_label"
+            android:textColor="@color/title_bg_color"
+            android:textSize="18sp"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txt_version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:textColor="#B2C0C0C0"
+        android:textSize="14sp"
+        tools:text="version 2.2.7"/>
+
+</RelativeLayout>

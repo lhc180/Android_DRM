@@ -1,0 +1,583 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:2:1-333:12
+	package
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:4:5-35
+uses-sdk
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [Meeting:recyclerview:unspecified] E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml
+permission#cn.com.meeting.drm.permission.JPUSH_MESSAGE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:12:5-14:47
+	android:protectionLevel
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:13:9-67
+uses-permission#cn.com.meeting.drm.permission.JPUSH_MESSAGE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:16:22-80
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:23:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:24:5-73
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:24:22-70
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:27:5-84
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:27:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:30:22-63
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:31:5-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:31:22-72
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:33:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:35:5-84
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:35:22-81
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:37:5-81
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:37:22-78
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:39:5-69
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:39:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:40:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:41:5-76
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:41:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:42:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:43:5-89
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:43:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:44:5-79
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:44:22-76
+uses-permission#android.permission.CAMERA
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:45:5-65
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:45:22-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:46:5-78
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:46:22-75
+application
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:48:5-331:19
+MERGED from [Meeting:recyclerview:unspecified] E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:52:9-41
+	android:supportsRtl
+		ADDED from [Meeting:recyclerview:unspecified] E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\build\intermediates\exploded-aar\meeting\recyclerview\unspecified\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:50:9-35
+	android:icon
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:51:9-46
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:53:9-40
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:49:9-49
+activity#cn.com.pyc.drm.ui.WelcomeActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:54:9-73:20
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:56:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:57:13-77
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:55:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:61:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:63:13-72:29
+action#android.intent.action.VIEW
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:64:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:66:17-76
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:66:27-73
+data
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:68:17-52
+	android:mimeType
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:68:23-49
+activity#cn.com.pyc.drm.ui.MuPDFMuHomeActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:74:9-77:63
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:76:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:77:13-60
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:75:13-65
+activity#cn.com.pyc.drm.ui.MuPDFOutlineActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:78:9-81:63
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:80:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:81:13-60
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:79:13-66
+activity#cn.com.pyc.drm.ui.MuPDFActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:84:9-88:74
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:87:13-43
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:86:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:88:13-71
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:85:13-59
+activity#cn.com.pyc.drm.ui.MuPDFFindAllNotes
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:90:9-94:20
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:93:13-43
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:92:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:91:13-63
+activity#cn.com.pyc.drm.ui.MuPDFSaveNotes
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:96:9-101:20
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:99:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:100:13-85
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:98:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:97:13-60
+activity#cn.com.pyc.drm.ui.MusicHomeActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:103:9-106:52
+	android:screenOrientation
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:106:13-49
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:105:13-43
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:104:13-63
+activity#cn.com.pyc.drm.ui.VideoPlayerActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:109:9-115:20
+	android:screenOrientation
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:113:13-50
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:112:13-43
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:111:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:114:13-77
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:110:13-65
+activity#cn.com.pyc.drm.ui.VideoAlbumActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:116:9-120:20
+	android:screenOrientation
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:119:13-49
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:118:13-43
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:117:13-64
+activity#cn.com.pyc.drm.ui.MusicAlbumActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:121:9-126:20
+	android:screenOrientation
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:124:13-49
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:123:13-43
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:125:13-60
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:122:13-64
+activity#cn.com.pyc.drm.ui.LoginActivityPro
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:127:9-132:20
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:131:13-64
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:129:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:130:13-71
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:128:13-62
+activity#cn.com.pyc.drm.ui.LoginAccountActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:133:9-138:20
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:137:13-64
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:135:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:136:13-71
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:134:13-66
+activity#cn.com.pyc.drm.ui.LoginMenuActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:139:9-144:20
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:143:13-64
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:141:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:142:13-71
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:140:13-63
+activity#cn.com.pyc.drm.ui.RegisterActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:145:9-149:20
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:148:13-64
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:147:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:146:13-62
+activity#cn.com.pyc.drm.ui.MechanismActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:150:9-154:20
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:153:13-64
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:152:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:151:13-63
+activity#cn.com.pyc.drm.ui.MyMeetingActivityPro
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:157:9-161:20
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:160:13-64
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:159:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:158:13-66
+activity#cn.com.pyc.drm.ui.SearchProductActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:162:9-166:20
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:165:13-65
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:164:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:163:13-67
+activity#cn.com.pyc.drm.ui.RetrievepasswordActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:167:9-171:20
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:170:13-64
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:169:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:168:13-70
+activity#cn.com.pyc.drm.ui.MuPDFAlbumActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:173:9-177:63
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:176:13-43
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:175:13-74
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:177:13-60
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:174:13-64
+activity#cn.com.pyc.drm.ui.SettingActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:178:9-181:46
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:181:13-43
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:180:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:179:13-61
+activity#cn.com.pyc.drm.ui.DownloadMainActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:183:9-186:46
+	android:launchMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:186:13-43
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:185:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:184:13-66
+activity#cn.com.pyc.drm.ui.SZInfoActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:187:9-189:52
+	android:screenOrientation
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:189:13-49
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:188:13-60
+activity#cn.com.pyc.drm.ui.ScanHistoryActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:190:9-192:77
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:192:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:191:13-65
+activity#cn.com.pyc.drm.ui.ScanLoginVerificationActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:193:9-195:77
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:195:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:194:13-75
+activity#cn.com.pyc.drm.ui.VoteActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:196:9-198:77
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:198:13-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:197:13-58
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:200:9-208:20
+	android:clearTaskOnLaunch
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:202:13-45
+	android:screenOrientation
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:204:13-49
+	android:stateNotNeeded
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:205:13-42
+	android:windowSoftInputMode
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:207:13-60
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:203:13-63
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:206:13-66
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:201:13-75
+service#cn.com.pyc.drm.service.MediaService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:211:9-71
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:211:18-68
+service#cn.com.pyc.drm.service.DownloadService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:212:9-74
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:212:18-71
+service#cn.com.pyc.drm.service.AppUpdateService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:213:9-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:213:18-72
+service#cn.com.pyc.drm.service.BGOCommandService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:214:9-76
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:214:18-73
+service#cn.com.pyc.drm.service.FloatViewService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:215:9-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:215:18-72
+service#cn.jpush.android.service.PushService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:220:9-230:19
+	android:enabled
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:222:13-35
+	android:exported
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:223:13-37
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:221:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:224:13-229:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:225:17-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:225:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:226:17-73
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:226:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:227:17-78
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:227:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:228:17-76
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:228:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:234:9-260:20
+	android:enabled
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:236:13-35
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:235:13-65
+intent-filter#cn.com.meeting.drm+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:237:13-247:29
+	android:priority
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:237:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:241:17-94
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:241:25-91
+category#cn.com.meeting.drm
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:246:17-63
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:246:27-60
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:250:13-253:29
+action#android.intent.action.USER_PRESENT
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:251:17-77
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:251:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:252:17-79
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:252:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:254:13-259:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:255:17-78
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:255:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:256:17-80
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:256:25-77
+activity#cn.jpush.android.ui.PushActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:263:9-273:20
+	android:configChanges
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:265:13-63
+	android:theme
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:266:13-72
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:264:13-60
+intent-filter#android.intent.category.DEFAULT+cn.com.meeting.drm+cn.jpush.android.ui.PushActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:267:13-272:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:268:17-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:268:25-72
+service#cn.jpush.android.service.DownloadService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:277:9-281:19
+	android:enabled
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:279:13-35
+	android:exported
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:280:13-37
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:278:13-68
+service#cn.jpush.android.service.DaemonService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:285:9-294:19
+	android:enabled
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:287:13-35
+	android:exported
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:288:13-36
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:286:13-66
+intent-filter#cn.com.meeting.drm+cn.jpush.android.intent.DaemonService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:289:13-293:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:290:17-80
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:290:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:297:9-75
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:297:19-72
+receiver#cn.com.pyc.drm.receiver.JPushReceiver
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:298:9-323:20
+	android:enabled
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:300:13-35
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:299:13-65
+intent-filter#cn.com.meeting.drm+cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:301:13-322:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:302:17-79
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:302:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:305:17-81
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:305:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:306:17-83
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:306:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:309:17-88
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:309:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:312:17-86
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:312:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:315:17-91
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:315:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:318:17-77
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:318:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:325:9-327:39
+	android:value
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:327:13-36
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:326:13-41
+meta-data#JPUSH_APPKEY
+ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:328:9-330:56
+	android:value
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:330:13-53
+	android:name
+		ADDED from E:\Meetting\svn\DRM_Android\as\MeetingProject\Meeting\app\src\main\AndroidManifest.xml:329:13-40

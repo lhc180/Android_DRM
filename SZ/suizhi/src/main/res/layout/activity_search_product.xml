@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#E8E8EA"
+              android:orientation="vertical">
+
+    <!--<include layout="@layout/title_common_bar"/>-->
+
+    <!-- 搜索栏 -->
+
+    <include layout="@layout/search_edit_layout"/>
+
+    <TextView
+        android:id="@+id/search_empty_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/search_empty"
+        android:textColor="@color/brilliant_blue"
+        android:visibility="gone"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp">
+
+        <cn.com.pyc.drm.widget.SplashTextView
+            xmlns:splash="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/search_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:singleLine="true"
+            android:text="@string/load_data_null"
+            android:textSize="16.0sp"
+            android:visibility="gone"
+            splash:color_type="1"/>
+
+        <!--  <com.aspsine.swipetoloadlayout.SwipeToLoadLayout
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:id="@+id/swipeToLoadLayout"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_gravity="center_horizontal"
+              app:drag_ratio="0.7"
+              app:refresh_enabled="false"
+              app:swipe_style="classic">-->
+
+        <!-- Header,Footer,target的id必须与指定的一致 -->
+        <!-- swipe_target,swipe_load_more_footer,swipe_refresh_header -->
+
+        <!--<android.support.v7.widget.RecyclerView-->
+        <cn.com.pyc.drm.widget.xrecyclerview.XRecyclerView
+            android:id="@id/swipe_target"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:clipToPadding="false"
+            android:scrollbars="vertical"/>
+        <!--
+                    <include
+                        android:id="@id/swipe_load_more_footer"
+                        layout="@layout/layout_classic_footer"/>
+                </com.aspsine.swipetoloadlayout.SwipeToLoadLayout>-->
+    </FrameLayout>
+
+</LinearLayout>

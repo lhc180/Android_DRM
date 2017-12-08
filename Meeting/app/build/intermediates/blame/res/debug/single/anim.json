@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_off.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\dialog_tv_off.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_scale.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\fade_out_scale.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pw_info_dismiss.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\pw_info_dismiss.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_trans_in.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\alpha_trans_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_music_open.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\activity_music_open.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pw_info_dismiss.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\pw_info_dismiss.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_exit.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\activity_scale_up_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_exit.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\activity_scale_up_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translucent_zoom_exit.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\translucent_zoom_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_on.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\dialog_tv_on.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\accelerate_interpolator.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\accelerate_interpolator.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\list_item_anim_layout.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\list_item_anim_layout.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_alpha_anim.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\slide_top_alpha_anim.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_exit.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\activity_scale_down_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_interpolator.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\decelerate_interpolator.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_enter.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\activity_scale_down_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_scale.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\fade_in_scale.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\d_open.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\d_open.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\d_close.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\d_close.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_on.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\dialog_tv_on.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_enter.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\activity_scale_up_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_x_out.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\trans_x_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pw_info_show.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\pw_info_show.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_exit.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\activity_scale_up_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translucent_zoom_out.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\translucent_zoom_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_enter.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\activity_scale_down_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\d_close.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\d_close.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\accelerate_interpolator.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\accelerate_interpolator.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_enter.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\activity_scale_down_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alp_info.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\alp_info.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\list_item_anim_layout.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\list_item_anim_layout.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\d_close.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\d_close.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_music_open.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\activity_music_open.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_scale.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\fade_out_scale.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\accelerate_interpolator.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\accelerate_interpolator.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_music_close.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\activity_music_close.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_exit.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\activity_scale_down_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translucent_zoom_exit.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\translucent_zoom_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_x_in.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\trans_x_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pw_info_show.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\pw_info_show.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_alpha_anim.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\slide_top_alpha_anim.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alp_info.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\alp_info.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_scale.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\fade_in_scale.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pw_info_dismiss.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\pw_info_dismiss.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translucent_zoom_out.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\translucent_zoom_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_music_close.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\activity_music_close.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_enter.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\activity_scale_up_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\info_alpha.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\info_alpha.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_interpolator.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\decelerate_interpolator.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_x_out.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\trans_x_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pw_info_show.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\pw_info_show.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alp_info.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\alp_info.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_x_in.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\trans_x_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\info_alpha.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\info_alpha.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_music_open.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\activity_music_open.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\d_open.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\d_open.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_scale.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\fade_out_scale.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_scale.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\fade_in_scale.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_up_enter.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\activity_scale_up_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_x_out.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\trans_x_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_x_in.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\trans_x_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\d_open.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\d_open.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\list_item_anim_layout.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\list_item_anim_layout.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\info_alpha.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\info_alpha.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translucent_zoom_exit.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\translucent_zoom_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_trans_in.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\alpha_trans_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translucent_zoom_out.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\translucent_zoom_out.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_on.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\dialog_tv_on.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_trans_in.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\alpha_trans_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_music_close.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\activity_music_close.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_scale_down_exit.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\activity_scale_down_exit.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_alpha_anim.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\meeting\\app\\src\\main\\res\\anim\\slide_top_alpha_anim.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_off.xml",
+        "source": "H:\\studio20161115\\meeting_workspase\\Meeting\\app\\src\\main\\res\\anim\\dialog_tv_off.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_tv_off.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\dialog_tv_off.xml"
+    },
+    {
+        "merged": "H:\\studio20161115\\meeting_studio\\meeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_interpolator.xml",
+        "source": "H:\\studio20161115\\meeting_studio\\meeting\\app\\src\\main\\res\\anim\\decelerate_interpolator.xml"
+    }
+]

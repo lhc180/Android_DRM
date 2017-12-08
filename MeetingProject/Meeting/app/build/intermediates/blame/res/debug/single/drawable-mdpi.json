@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\welcomeui.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\welcomeui.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\defaultalbum.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\defaultalbum.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\music5.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\music5.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_link.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\ic_link.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cancel.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_dialog.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\ic_dialog.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launchers.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\ic_launchers.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_magnifying_glass.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-mdpi\\ic_magnifying_glass.png"
+    }
+]

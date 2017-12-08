@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_play.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\music_play.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_play.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\video_play.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\single.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\single.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_bg.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\music_bg.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sequence.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\sequence.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pulltorefresh_arrow.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_bar_exit.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_bar_exit.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\welcomeui.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\welcomeui.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_pause.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\video_pause.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_next.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\music_next.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bookmake_normal.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\bookmake_normal.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bookmake_press.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\bookmake_press.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_pause.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\music_pause.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_lightbg_press.9.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_lightbg_press.9.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shunxu.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\shunxu.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_prev.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\music_prev.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_prev.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\video_prev.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_list.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\video_list.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_list.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\music_list.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launchers.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_launchers.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_background.9.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\progress_background.9.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_orange_match.9.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\button_orange_match.9.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_notification.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_notification.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_normal.9.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\progress_normal.9.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_scanner_flash_p.9.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_scanner_flash_p.9.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_login_meeting.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_login_meeting.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_next.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\video_next.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_info.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\video_info.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\imb_white0.9.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\imb_white0.9.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\iconfont_downgrey.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\iconfont_downgrey.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line_gray.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\line_gray.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_scanner_flash_n.9.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_scanner_flash_n.9.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_brompt_dot_red.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_brompt_dot_red.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\imb_white1.9.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-hdpi\\imb_white1.9.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\welcomeui.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-xxhdpi\\welcomeui.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_flash_c.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flash_c.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_flash_o.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flash_o.png"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launchers.png",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launchers.png"
+    }
+]

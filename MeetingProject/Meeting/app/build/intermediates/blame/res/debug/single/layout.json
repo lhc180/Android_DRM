@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_home_head.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\title_home_head.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pdf_buttons.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_pdf_buttons.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_product.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_search_product.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_item.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download_main.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_download_main.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_music_menu_list.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_music_menu_list.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_server_lv.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_server_lv.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update_app.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_update_app.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mymeeting_history_pro.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_mymeeting_history_pro.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login2.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_music_lyc.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\fragment_music_lyc.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_menu_list.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_video_menu_list.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\retailers_activity.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\retailers_activity.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_music_img.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\fragment_music_img.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_user.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_user.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_player.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_app_update.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\notification_app_update.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\media_control_layout.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\media_control_layout.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_lists.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_video_lists.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_content.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_content.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_footer.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\recyclerview_footer.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_custom_toast.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\common_custom_toast.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retrievepassword.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_retrievepassword.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_warning.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_warning.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scanhistory.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_scanhistory.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textinput_dialog.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\textinput_dialog.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_header.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\recyclerview_header.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bgloading.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_bgloading.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_download_main_local.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_download_main_local.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_common_bar.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\title_common_bar.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_video_info.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_video_info.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu_list.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_menu_list.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sz_about.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_sz_about.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pdf_lable.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_pdf_lable.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_music_play.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_music_play.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pdf_menu_list.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_pdf_menu_list.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pdf_infor.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_pdf_infor.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_top.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\tab_top.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pdf_outline.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\fragment_pdf_outline.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_meeting_bar.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\title_meeting_bar.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_mechanism.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_mechanism.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_pdf_notes_bar.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\title_pdf_notes_bar.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music_icon_layout.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\music_icon_layout.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_download_main_bak.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_download_main_bak.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mymeeting_history.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_mymeeting_history.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pdf_mark.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_pdf_mark.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_findall_notes.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_findall_notes.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_pro.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_login_pro.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_common.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_common.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_mymeeting_record.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_mymeeting_record.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_account.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_login_account.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_music_bar.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\title_music_bar.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_clear.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_clear.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_albumlist_adapter.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_albumlist_adapter.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textentry.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\textentry.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_notes.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_save_notes.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mechanism.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_mechanism.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pdf_lable_edit.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_pdf_lable_edit.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sz_about2.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_sz_about2.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pdf_outline.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_pdf_outline.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\preference.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_download_main.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_download_main.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_edit_layout.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\search_edit_layout.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_mymeeting_common_bar.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\title_mymeeting_common_bar.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_category.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_music_playbar.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\notification_music_playbar.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scanhistory.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_scanhistory.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\no_ptr_header.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\no_ptr_header.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_view_textentry.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\edit_view_textentry.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pdf_bookmark.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\fragment_pdf_bookmark.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_music_menu_list.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\item_music_menu_list.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadingindicator_loading.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\loadingindicator_loading.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_isdelete.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\dialog_isdelete.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_download_head.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\title_download_head.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_outline_tab.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_outline_tab.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sz_info.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_sz_info.xml"
+    },
+    {
+        "merged": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\Meetting\\svn\\DRM_Android\\as\\MeetingProject\\Meeting\\app\\src\\main\\res\\layout\\activity_register.xml"
+    }
+]
